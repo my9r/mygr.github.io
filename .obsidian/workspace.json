@@ -4,54 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "732d56b6da8f5599",
-        "type": "split",
+        "id": "cf61745df6fabbef",
+        "type": "tabs",
         "children": [
           {
-            "id": "cf61745df6fabbef",
-            "type": "tabs",
-            "dimension": 81.4643188137164,
-            "children": [
-              {
-                "id": "5a9523ca4f9ee881",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "日记/mygr的日记/2025年/2025.1.21.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025.1.21"
-                },
-                "group": "60073f95ad8f7782"
-              }
-            ]
-          },
-          {
-            "id": "4752fadf24a568ca",
-            "type": "tabs",
-            "dimension": 18.535681186283597,
-            "children": [
-              {
-                "id": "65a1d1a5b913f933",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "日记/mygr的日记/2025年/测试讲评&习题（二）.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "测试讲评&习题（二）"
-                }
-              }
-            ]
+            "id": "5a9523ca4f9ee881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/mygr的日记/2025年/2025.1.21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025.1.21"
+            },
+            "group": "60073f95ad8f7782"
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/mygr的日记/2025年/2025.1.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025.1.21 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -163,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/mygr的日记/2025年/2025.1.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025.1.21 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -203,11 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/mygr的日记/2025年/2025.1.21.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "2025.1.21 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -249,12 +216,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a9523ca4f9ee881",
+  "active": "0f4ec4c822438e86",
   "lastOpenFiles": [
+    "日记/mygr的日记/2025年/2025.1.21.md",
     "日记/mygr的日记/2025年/2025年.md",
+    "README.md",
     "日记/mygr的日记/mygr的日记.md",
     "Home.canvas",
-    "日记/mygr的日记/2025年/2025.1.21.md",
     "日记/mygr的日记/2025年/测试讲评&习题（二）.pdf",
     "日记/mygr的日记/2024年/20241009.md",
     "日记/mygr的日记/2025年/2025-01-21.md",
@@ -271,7 +239,6 @@
     "算法/欧拉回路.md",
     "算法/数据结构.md",
     "算法/数论.md",
-    "README.md",
     "算法/BSET定理.md",
     "算法/建图技巧.md",
     "算法/字符串.md",
