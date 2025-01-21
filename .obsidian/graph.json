@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#under_construction  ",
+      "color": {
+        "a": 1,
+        "rgb": 15762980
+      }
+    },
+    {
+      "query": "file:总目录：",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#important",
+      "color": {
+        "a": 1,
+        "rgb": 907250
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": 1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224477,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.627604166666667,
+  "repelStrength": 10.0520833333333,
+  "linkStrength": 0.606770833333333,
+  "linkDistance": 122,
+  "scale": 1.2414543899483943,
+  "close": true
 }
