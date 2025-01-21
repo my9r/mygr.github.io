@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "斜率.md",
+                "file": "模 2 意义下的组合数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "斜率"
+              "title": "模 2 意义下的组合数"
             },
             "group": "5f80c867dc61d25b"
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#define",
+                "query": "异或",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "斜率.md",
+                "file": "模 2 意义下的组合数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "斜率 的反向链接列表"
+              "title": "模 2 意义下的组合数 的反向链接列表"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "斜率.md"
+                "file": "模 2 意义下的组合数.md"
               },
               "icon": "lucide-list",
-              "title": "斜率 的大纲"
+              "title": "模 2 意义下的组合数 的大纲"
             }
           },
           {
@@ -194,12 +194,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "斜率.md",
+                "file": "模 2 意义下的组合数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "斜率"
+              "title": "模 2 意义下的组合数"
             },
             "group": "5f80c867dc61d25b"
           }
@@ -244,19 +244,26 @@
   },
   "active": "13650c0066586c99",
   "lastOpenFiles": [
-    "计算几何.md",
-    "斜率.md",
-    "总目录：.md",
-    "哈希.md",
-    "图论.md",
-    "网络流.md",
     "赛前金句.md",
+    "模 2 意义下的组合数.md",
+    "组合数学.md",
     "数论.md",
-    "拉格朗日插值.md",
-    "字符串.md",
+    "总目录：.md",
+    "杂项Trick.md",
+    "异或.md",
     "二进制.md",
+    "哈希.md",
     "线段树.md",
     "数据结构.md",
+    "KMP.md",
+    "字符串.md",
+    "动态规划.md",
+    "下取整与取模.md",
+    "斜率.md",
+    "计算几何.md",
+    "图论.md",
+    "网络流.md",
+    "拉格朗日插值.md",
     "Oi-eR/README.md",
     "Oi-eR",
     "算法/动态规划.md",
@@ -264,14 +271,7 @@
     "贪心.md",
     "笛卡尔树.md",
     "扫描线.md",
-    "平衡树.md",
-    "动态规划.md",
-    "分块.md",
-    "函数复合问题.md",
-    "二进制分组.md",
-    "Trie.md",
     "未命名.canvas",
-    "2025-01-21.md",
     "算法",
     "日记",
     "函数复合.pptx",
