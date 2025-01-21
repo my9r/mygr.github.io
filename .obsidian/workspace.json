@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录：.md",
+                "file": "算法/欧拉回路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总目录："
+              "title": "欧拉回路"
             },
             "group": "60073f95ad8f7782"
           }
@@ -115,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法/欧拉回路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "欧拉回路 的反向链接列表"
             }
           },
           {
@@ -133,11 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "算法/欧拉回路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "欧拉回路 的出链列表"
             }
           },
           {
@@ -172,9 +174,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "算法/欧拉回路.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "欧拉回路 的大纲"
             }
           }
         ],
@@ -191,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录：.md",
+                "file": "算法/欧拉回路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总目录："
+              "title": "欧拉回路"
             },
             "group": "60073f95ad8f7782"
           }
@@ -216,10 +220,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0f4ec4c822438e86",
+  "active": "36f0a6be8d1506e6",
   "lastOpenFiles": [
     "总目录：.md",
-    "欧拉回路.md",
+    "算法/欧拉回路.md",
     "算法/图论.md",
     "算法/数据结构.md",
     "算法/数论.md",
