@@ -10,23 +10,20 @@
           {
             "id": "cf61745df6fabbef",
             "type": "tabs",
-            "dimension": 33.98148148148148,
+            "dimension": 81.4643188137164,
             "children": [
               {
                 "id": "5a9523ca4f9ee881",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Home.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
+                    "file": "日记/mygr的日记/2025年/2025.1.21.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Home"
+                  "icon": "lucide-file",
+                  "title": "2025.1.21"
                 },
                 "group": "60073f95ad8f7782"
               }
@@ -35,7 +32,7 @@
           {
             "id": "4752fadf24a568ca",
             "type": "tabs",
-            "dimension": 66.01851851851852,
+            "dimension": 18.535681186283597,
             "children": [
               {
                 "id": "65a1d1a5b913f933",
@@ -147,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.canvas",
+                "file": "日记/mygr的日记/2025年/2025.1.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Home 的反向链接列表"
+              "title": "2025.1.21 的反向链接列表"
             }
           },
           {
@@ -166,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.canvas",
+                "file": "日记/mygr的日记/2025年/2025.1.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Home 的出链列表"
+              "title": "2025.1.21 的出链列表"
             }
           },
           {
@@ -207,10 +204,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.canvas"
+                "file": "日记/mygr的日记/2025年/2025.1.21.md"
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "2025.1.21 的大纲"
             }
           }
         ],
@@ -225,17 +222,14 @@
             "id": "7b4f4cef99cc77ed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "日记/mygr的日记/2025年/2025.1.21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "2025.1.21"
             },
             "group": "60073f95ad8f7782"
           }
@@ -257,10 +251,12 @@
   },
   "active": "5a9523ca4f9ee881",
   "lastOpenFiles": [
+    "日记/mygr的日记/2025年/2025年.md",
+    "日记/mygr的日记/mygr的日记.md",
+    "Home.canvas",
     "日记/mygr的日记/2025年/2025.1.21.md",
     "日记/mygr的日记/2025年/测试讲评&习题（二）.pdf",
     "日记/mygr的日记/2024年/20241009.md",
-    "日记/mygr的日记/2025年/2025年.md",
     "日记/mygr的日记/2025年/2025-01-21.md",
     "日记/mygr的日记/2024年/2024年.md",
     "日记/mygr的日记/2025年",
@@ -271,9 +267,7 @@
     "测试讲评&习题（二）.pdf].md",
     "算法/图论.md",
     "总目录：.md",
-    "日记/mygr的日记/mygr的日记.md",
     "算法/日记.md",
-    "Home.canvas",
     "算法/欧拉回路.md",
     "算法/数据结构.md",
     "算法/数论.md",
