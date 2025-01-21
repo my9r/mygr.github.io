@@ -1,4 +1,3 @@
-# Oi-eR
  For Obsidian
 
 不止于OI，这是个向所有人开放的文章共享平台
