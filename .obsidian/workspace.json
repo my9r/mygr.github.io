@@ -4,52 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "318615fa0a113358",
-        "type": "split",
+        "id": "cf61745df6fabbef",
+        "type": "tabs",
         "children": [
           {
-            "id": "cf61745df6fabbef",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5a9523ca4f9ee881",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "日记/mygr的日记/2025年/2025.1.22.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025.1.22"
-                },
-                "group": "60073f95ad8f7782"
-              }
-            ]
-          },
-          {
-            "id": "0cc5851f788d7fc0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "22ef30cf65465696",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "差分约束.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "差分约束"
-                }
-              }
-            ]
+            "id": "5a9523ca4f9ee881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "最短路.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最短路"
+            },
+            "group": "60073f95ad8f7782"
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "差分约束.md",
+                "file": "最短路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "差分约束 的反向链接列表"
+              "title": "最短路 的反向链接列表"
             }
           },
           {
@@ -161,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "差分约束.md",
+                "file": "最短路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "差分约束 的出链列表"
+              "title": "最短路 的出链列表"
             }
           },
           {
@@ -202,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "差分约束.md"
+                "file": "最短路.md"
               },
               "icon": "lucide-list",
-              "title": "差分约束 的大纲"
+              "title": "最短路 的大纲"
             }
           }
         ],
@@ -222,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/mygr的日记/2025年/2025.1.22.md",
+                "file": "最短路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.1.22"
+              "title": "最短路"
             },
             "group": "60073f95ad8f7782"
           }
@@ -247,22 +220,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "22ef30cf65465696",
+  "active": "36f0a6be8d1506e6",
   "lastOpenFiles": [
-    "日记/mygr的日记/2025年/2025.1.22.md",
-    "差分约束.md",
     "算法/图论.md",
+    "最短路.md",
     "总目录：.md",
+    "算法/杂项Trick.md",
+    "日记/mygr的日记/2025年/2025.1.22.md",
+    "Home.canvas",
+    "日记/mygr的日记/mygr的日记.md",
+    "円香姐姐.jpg",
+    "差分约束.md",
     "日记/mygr的日记/2025年/test-2.pdf",
     "README.md",
     "日记/mygr的日记/2025年/2025年.md",
-    "日记/mygr的日记/mygr的日记.md",
     "算法/日记.md",
     "算法/线段覆盖.md",
     "算法/贪心.md",
     "日记/mygr的日记/2025年/2025.1.21.md",
     "算法/序列分段.md",
-    "Home.canvas",
     "日记/mygr的日记/2025年/测试讲评&习题（二）.pdf",
     "日记/mygr的日记/2024年/20241009.md",
     "日记/mygr的日记/2025年/2025-01-21.md",
@@ -278,8 +254,6 @@
     "算法/数论.md",
     "算法/BSET定理.md",
     "算法/建图技巧.md",
-    "算法/字符串.md",
-    "算法/矩阵树定理.md",
-    "算法/杂项Trick.md"
+    "算法/字符串.md"
   ]
 }
