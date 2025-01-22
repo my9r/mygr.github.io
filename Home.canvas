@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"80268648e47ebe25","x":770,"y":3027,"width":250,"height":60,"type":"text","text":""},
-		{"id":"abb0d333eb0bb016","x":100,"y":3027,"width":250,"height":60,"type":"text","text":""}
+		{"id":"bd0b5a0560dfd4cd","type":"text","text":"# *公告栏*\n\n\n想玩啥玩啥\n","x":400,"y":2400,"width":1005,"height":1160,"color":"3"},
+		{"id":"cb456442ea4b9b40","type":"file","file":"円香姐姐.jpg","x":1149,"y":3160,"width":256,"height":400},
+		{"id":"0a866d7697625313","type":"text","text":"新增了差分约束章节","x":440,"y":2520,"width":250,"height":60}
 	],
 	"edges":[]
 }
