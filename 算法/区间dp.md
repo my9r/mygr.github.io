@@ -8,3 +8,5 @@
 
 
 对于代价随着时间的变化而增长，满足条件后停止增长的问题，可以考虑把每一时刻的代价表示为每一时刻未满足条件的代价的和 [修缮长城](https://www.luogu.com.cn/problem/UVA1336) ，或是将每一段的代价乘上未来累计所需的时间 [修车](https://www.luogu.com.cn/problem/P2053)
+
+对于字符串的拼接问题，也可以使用区间dp去解决 [https://www.luogu.com.cn/problem/P2400](机密文件)
