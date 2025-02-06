@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "反射容斥.md",
+                "file": "日记/mygr的日记/2025年/卡特兰数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "反射容斥"
+              "title": "卡特兰数"
             },
             "group": "60073f95ad8f7782"
-          },
-          {
-            "id": "0ee736e4de4326d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总目录：.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "总目录："
-            }
           }
         ]
       }
@@ -189,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "反射容斥.md"
+                "file": "日记/mygr的日记/2025年/卡特兰数.md"
               },
               "icon": "lucide-list",
-              "title": "反射容斥 的大纲"
+              "title": "卡特兰数 的大纲"
             }
           }
         ],
@@ -209,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "反射容斥.md",
+                "file": "日记/mygr的日记/2025年/卡特兰数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "反射容斥"
+              "title": "卡特兰数"
             },
             "group": "60073f95ad8f7782"
           }
@@ -260,28 +246,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a9523ca4f9ee881",
+  "active": "36f0a6be8d1506e6",
   "lastOpenFiles": [
+    "总目录：.md",
+    "日记/mygr的日记/2025年/20250205.pdf",
+    "円香姐姐.jpg",
+    "日记/mygr的日记/2025年/卡特兰数.md",
+    "计数问题选讲.pdf",
+    "反射容斥.md",
+    "算法/莫队.md",
+    "日记/mygr的日记/2025年/2025.2.6.md",
+    "日记/mygr的日记/2025年/杂题选讲.pdf",
+    "日记/mygr的日记/2025年/20250204.pdf",
+    "日记/mygr的日记/2025年/20250206.pdf",
+    "日记/mygr的日记/2025年/statement.pdf",
+    "日记/mygr的日记/2025年/2025.2.5.md",
     "node_modules/lower-case/README.md",
     "node_modules/prismjs/README.md",
     "node_modules/highlight.js/README.md",
-    "卡特兰数.md",
-    "日记/mygr的日记/2025年/2025.2.5.md",
     "Home.canvas",
-    "反射容斥.md",
     "算法/数论.md",
-    "总目录：.md",
-    "日记/mygr的日记/2025年/20250205.pdf",
     "计数专题.md",
     "日记/mygr的日记/2024年/20241029.md",
-    "计数问题选讲.pdf",
     "算法/组合数学.md",
-    "日记/mygr的日记/2025年/莫队.md",
     "日记/mygr的日记/2025年/problem (2).pdf",
     "算法/赛前金句.md",
     "算法/后缀数组.md",
     "算法/字符串.md",
-    "日记/mygr的日记/2025年/statement.pdf",
     "算法/数据结构/数据结构选讲.pdf",
     "算法/线段树.md",
     "算法/数据结构.md",
@@ -289,18 +280,12 @@
     "算法/数据结构/~$单侧递归类问题.pptx",
     "算法/数据结构/单侧递归类问题.pptx",
     "算法/分块/分块.md",
-    "算法/数据结构",
-    "算法/新建文件夹",
-    "算法/分块/~$分块+莫队.pptx",
     "日记/mygr的日记/2025年/2025.1.22.md",
     "算法/杂项Trick.md",
     "算法/二分答案.md",
     "算法/STD.md",
     "算法/启发式合并.md",
-    "算法/异或.md",
-    "node_modules/commander/Readme.md",
     "Pasted image 20250122221200.png",
-    "image/Pasted image 20250122221308.png",
-    "円香姐姐.jpg"
+    "image/Pasted image 20250122221308.png"
   ]
 }
