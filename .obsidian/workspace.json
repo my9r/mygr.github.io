@@ -13,16 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/mygr的日记/2025年/卡特兰数.md",
+                "file": "AT_awtf2024_d Almost Bubble Sort 题解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卡特兰数"
+              "title": "AT_awtf2024_d Almost Bubble Sort 题解"
             },
             "group": "60073f95ad8f7782"
+          },
+          {
+            "id": "0d2caf7875b3f6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025.2.14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025.2.14"
+            }
+          },
+          {
+            "id": "6346100acb848657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "闵可夫斯基和.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "闵可夫斯基和"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,7 +63,7 @@
       {
         "id": "ae63772503221db0",
         "type": "tabs",
-        "dimension": 58.68725868725869,
+        "dimension": 58.69140625,
         "children": [
           {
             "id": "36f0a6be8d1506e6",
@@ -42,7 +71,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -54,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卡特兰",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +110,7 @@
       {
         "id": "7a8af759aa0e3706",
         "type": "tabs",
-        "dimension": 41.312741312741316,
+        "dimension": 41.30859375,
         "children": [
           {
             "id": "0f4ec4c822438e86",
@@ -98,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544.5
+    "width": 446.5
   },
   "right": {
     "id": "57df1eeeb7192000",
@@ -115,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "状态压缩.md",
+                "file": "闵可夫斯基和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "状态压缩 的反向链接列表"
+              "title": "闵可夫斯基和 的反向链接列表"
             }
           },
           {
@@ -175,14 +205,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/mygr的日记/2025年/卡特兰数.md"
+                "file": "算法/树上问题.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "卡特兰数 的大纲"
+              "title": "树上问题 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "b4e50212cceacec2",
@@ -195,12 +227,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/mygr的日记/2025年/卡特兰数.md",
+                "file": "AT_awtf2024_d Almost Bubble Sort 题解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卡特兰数"
+              "title": "AT_awtf2024_d Almost Bubble Sort 题解"
             },
             "group": "60073f95ad8f7782"
           }
@@ -220,8 +252,8 @@
               "state": {
                 "file": "Home.canvas",
                 "viewState": {
-                  "x": 902.5,
-                  "y": 2423.419748360111,
+                  "x": 512.9961585533033,
+                  "y": 2150.7670412916586,
                   "zoom": -0.5647471813146208
                 }
               },
@@ -246,45 +278,46 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36f0a6be8d1506e6",
+  "active": "6346100acb848657",
   "lastOpenFiles": [
+    "2025.2.14.md",
+    "AT_awtf2024_d Almost Bubble Sort 题解.md",
+    "闵可夫斯基和.md",
+    "算法/计算几何.md",
     "总目录：.md",
-    "日记/mygr的日记/2025年/20250205.pdf",
-    "円香姐姐.jpg",
-    "日记/mygr的日记/2025年/卡特兰数.md",
-    "计数问题选讲.pdf",
-    "反射容斥.md",
-    "算法/莫队.md",
-    "日记/mygr的日记/2025年/2025.2.6.md",
-    "日记/mygr的日记/2025年/杂题选讲.pdf",
-    "日记/mygr的日记/2025年/20250204.pdf",
-    "日记/mygr的日记/2025年/20250206.pdf",
-    "日记/mygr的日记/2025年/statement.pdf",
-    "日记/mygr的日记/2025年/2025.2.5.md",
-    "node_modules/lower-case/README.md",
-    "node_modules/prismjs/README.md",
-    "node_modules/highlight.js/README.md",
-    "Home.canvas",
+    "sol(3).pdf",
+    "题解/P7486 「Stoi2031」彩虹 题解.md",
+    "算法/数学相关Trick.md",
+    "算法/质数相关.md",
     "算法/数论.md",
-    "计数专题.md",
-    "日记/mygr的日记/2024年/20241029.md",
-    "算法/组合数学.md",
-    "日记/mygr的日记/2025年/problem (2).pdf",
-    "算法/赛前金句.md",
-    "算法/后缀数组.md",
-    "算法/字符串.md",
-    "算法/数据结构/数据结构选讲.pdf",
-    "算法/线段树.md",
-    "算法/数据结构.md",
-    "日记/mygr的日记/2025年/2025.2.4.md",
-    "算法/数据结构/~$单侧递归类问题.pptx",
-    "算法/数据结构/单侧递归类问题.pptx",
-    "算法/分块/分块.md",
-    "日记/mygr的日记/2025年/2025.1.22.md",
     "算法/杂项Trick.md",
-    "算法/二分答案.md",
-    "算法/STD.md",
-    "算法/启发式合并.md",
+    "算法/线段树.md",
+    "算法/状态压缩.md",
+    "算法/动态规划.md",
+    "2025.2.13.md",
+    "题解/P7907 Ynoi2005 rmscne 题解.md",
+    "算法/数据结构.md",
+    "日记/mygr的日记/2025年/2025.2.12.md",
+    "题解/P4694 PA 2013 Raper.md",
+    "文件夹/2.pdf",
+    "算法/连通性相关.md",
+    "算法/图论.md",
+    "算法/支配对.md",
+    "文件夹/1.pdf",
+    "日记/mygr的日记/2025年/2025.2.11.md",
+    "算法/模拟费用流.md",
+    "算法/数据结构/数据结构选讲.pdf",
+    "题解/AT_cf17_final_j Tree MST 题解.md",
+    "算法/最小生成树.md",
+    "Home.canvas",
+    "算法/DAG链剖分.md",
+    "题解",
+    "文件夹/20250204.pdf",
+    "文件夹/20250206.pdf",
+    "文件夹/随机算法.pdf",
+    "文件夹/day1.pdf",
+    "文件夹",
+    "円香姐姐.jpg",
     "Pasted image 20250122221200.png",
     "image/Pasted image 20250122221308.png"
   ]
