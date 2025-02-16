@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT_awtf2024_d Almost Bubble Sort 题解.md",
+                "file": "题解/AT_awtf2024_d Almost Bubble Sort 题解.md",
                 "mode": "source",
                 "source": false
               },
@@ -23,35 +23,21 @@
             "group": "60073f95ad8f7782"
           },
           {
-            "id": "0d2caf7875b3f6bd",
+            "id": "e754ac0f8580d988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025.2.14.md",
+                "file": "论区间覆盖的暴力退标记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.2.14"
-            }
-          },
-          {
-            "id": "6346100acb848657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "闵可夫斯基和.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "闵可夫斯基和"
+              "title": "论区间覆盖的暴力退标记"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闵可夫斯基和.md",
+                "file": "论区间覆盖的暴力退标记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "闵可夫斯基和 的反向链接列表"
+              "title": "论区间覆盖的暴力退标记 的反向链接列表"
             }
           },
           {
@@ -227,7 +213,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT_awtf2024_d Almost Bubble Sort 题解.md",
+                "file": "题解/AT_awtf2024_d Almost Bubble Sort 题解.md",
                 "mode": "source",
                 "source": false
               },
@@ -278,45 +264,46 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6346100acb848657",
+  "active": "e754ac0f8580d988",
   "lastOpenFiles": [
-    "2025.2.14.md",
-    "AT_awtf2024_d Almost Bubble Sort 题解.md",
-    "闵可夫斯基和.md",
-    "算法/计算几何.md",
-    "总目录：.md",
-    "sol(3).pdf",
-    "题解/P7486 「Stoi2031」彩虹 题解.md",
-    "算法/数学相关Trick.md",
-    "算法/质数相关.md",
-    "算法/数论.md",
-    "算法/杂项Trick.md",
-    "算法/线段树.md",
-    "算法/状态压缩.md",
-    "算法/动态规划.md",
-    "2025.2.13.md",
-    "题解/P7907 Ynoi2005 rmscne 题解.md",
+    "区间的序列区间查询.md",
+    "论区间覆盖的暴力退标记.md",
+    "文件夹/Pasted image 20250216163531.png",
+    "文件夹/Pasted image 20250216163557.png",
     "算法/数据结构.md",
-    "日记/mygr的日记/2025年/2025.2.12.md",
-    "题解/P4694 PA 2013 Raper.md",
-    "文件夹/2.pdf",
-    "算法/连通性相关.md",
+    "总目录：.md",
+    "KD-Tree.md",
+    "算法/线段树.md",
+    "算法/分块/分块.md",
+    "题解/AT_awtf2024_d Almost Bubble Sort 题解.md",
+    "文件夹/problem.pdf",
+    "文件夹/sol(3).pdf",
+    "文件夹/problem2.pdf",
+    "算法/多项式.md",
+    "日记/mygr的日记/2025年/2025.2.13.md",
+    "算法/博弈论.md",
+    "日记/mygr的日记/2025年/2025.2.15.md",
+    "算法/分治.md",
+    "算法/笛卡尔树.md",
+    "算法/欧拉回路.md",
     "算法/图论.md",
-    "算法/支配对.md",
+    "算法/数论.md",
+    "算法/质数相关.md",
+    "算法/数学相关Trick.md",
+    "算法/闵可夫斯基和.md",
+    "日记/mygr的日记/2025年/2025.2.14.md",
+    "算法/计算几何.md",
+    "题解/P7486 「Stoi2031」彩虹 题解.md",
+    "算法/杂项Trick.md",
+    "算法/状态压缩.md",
+    "文件夹/2.pdf",
     "文件夹/1.pdf",
-    "日记/mygr的日记/2025年/2025.2.11.md",
-    "算法/模拟费用流.md",
     "算法/数据结构/数据结构选讲.pdf",
-    "题解/AT_cf17_final_j Tree MST 题解.md",
-    "算法/最小生成树.md",
     "Home.canvas",
-    "算法/DAG链剖分.md",
     "题解",
     "文件夹/20250204.pdf",
     "文件夹/20250206.pdf",
     "文件夹/随机算法.pdf",
-    "文件夹/day1.pdf",
-    "文件夹",
     "円香姐姐.jpg",
     "Pasted image 20250122221200.png",
     "image/Pasted image 20250122221308.png"
