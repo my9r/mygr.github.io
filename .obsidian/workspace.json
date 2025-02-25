@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/AT_awtf2024_d Almost Bubble Sort 题解.md",
+                "file": "算法/闵可夫斯基和.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AT_awtf2024_d Almost Bubble Sort 题解"
+              "title": "闵可夫斯基和"
             },
             "group": "60073f95ad8f7782"
           },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论区间覆盖的暴力退标记.md",
+                "file": "算法/论区间覆盖的暴力退标记.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,8 +36,7 @@
               "title": "论区间覆盖的暴力退标记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,8 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -70,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "KD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论区间覆盖的暴力退标记.md",
+                "file": "算法/闵可夫斯基和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "论区间覆盖的暴力退标记 的反向链接列表"
+              "title": "闵可夫斯基和 的反向链接列表"
             }
           },
           {
@@ -213,12 +211,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/AT_awtf2024_d Almost Bubble Sort 题解.md",
+                "file": "算法/闵可夫斯基和.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AT_awtf2024_d Almost Bubble Sort 题解"
+              "title": "闵可夫斯基和"
             },
             "group": "60073f95ad8f7782"
           }
@@ -264,46 +262,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e754ac0f8580d988",
+  "active": "5a9523ca4f9ee881",
   "lastOpenFiles": [
-    "区间的序列区间查询.md",
-    "论区间覆盖的暴力退标记.md",
+    "算法/计算几何.md",
+    "总目录：.md",
+    "算法/论区间覆盖的暴力退标记.md",
+    "算法/动态规划.md",
+    "算法/贪心.md",
+    "算法/线段覆盖.md",
+    "算法/二进制.md",
+    "算法/数据结构.md",
+    "算法/支配对.md",
+    "算法/区间的序列区间查询.md",
+    "算法/KD-Tree.md",
+    "算法/RMQ问题.md",
+    "算法/模拟费用流.md",
+    "算法/Trie.md",
+    "算法/堆.md",
+    "算法/扫描线.md",
+    "算法/笛卡尔树.md",
+    "算法/分块/分块.md",
+    "算法/平衡树.md",
+    "算法/线段树.md",
+    "题解/P7907 Ynoi2005 rmscne 题解.md",
+    "算法/概率与期望.md",
+    "算法/数论.md",
+    "算法/最短路.md",
+    "node_modules/prismjs/CHANGELOG.md",
+    "算法/计数专题.md",
+    "文件夹/~$扫描线模型.pptx",
+    "文件夹/~$函数复合.pptx",
+    "文件夹/函数复合.pptx",
+    "文件夹/扫描线模型.pptx",
+    "文件夹/~$数据结构维护凸壳.pptx",
+    "文件夹/数据结构维护凸壳.pptx",
     "文件夹/Pasted image 20250216163531.png",
     "文件夹/Pasted image 20250216163557.png",
-    "算法/数据结构.md",
-    "总目录：.md",
-    "KD-Tree.md",
-    "算法/线段树.md",
-    "算法/分块/分块.md",
-    "题解/AT_awtf2024_d Almost Bubble Sort 题解.md",
     "文件夹/problem.pdf",
     "文件夹/sol(3).pdf",
     "文件夹/problem2.pdf",
-    "算法/多项式.md",
-    "日记/mygr的日记/2025年/2025.2.13.md",
-    "算法/博弈论.md",
-    "日记/mygr的日记/2025年/2025.2.15.md",
-    "算法/分治.md",
-    "算法/笛卡尔树.md",
-    "算法/欧拉回路.md",
-    "算法/图论.md",
-    "算法/数论.md",
-    "算法/质数相关.md",
-    "算法/数学相关Trick.md",
-    "算法/闵可夫斯基和.md",
-    "日记/mygr的日记/2025年/2025.2.14.md",
-    "算法/计算几何.md",
-    "题解/P7486 「Stoi2031」彩虹 题解.md",
-    "算法/杂项Trick.md",
-    "算法/状态压缩.md",
     "文件夹/2.pdf",
-    "文件夹/1.pdf",
-    "算法/数据结构/数据结构选讲.pdf",
     "Home.canvas",
-    "题解",
-    "文件夹/20250204.pdf",
-    "文件夹/20250206.pdf",
-    "文件夹/随机算法.pdf",
     "円香姐姐.jpg",
     "Pasted image 20250122221200.png",
     "image/Pasted image 20250122221308.png"
