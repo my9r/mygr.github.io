@@ -5,7 +5,5 @@
 		{"id":"0a866d7697625313","type":"text","text":"新增了差分约束章节","x":440,"y":2520,"width":250,"height":60},
 		{"id":"8f0572623caed0f8","type":"text","text":"## 题目列表/悬赏令\n\n[# IIIDX](https://www.luogu.com.cn/problem/P4364) ，春节之前解决","x":440,"y":2580,"width":380,"height":260}
 	],
-	"edges":[
-		{"id":"64ba1ae5159b721f","fromNode":"8f0572623caed0f8","fromSide":"bottom","toNode":"bd0b5a0560dfd4cd","toSide":"left"}
-	]
+	"edges":[]
 }

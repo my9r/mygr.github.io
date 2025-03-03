@@ -13,30 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/闵可夫斯基和.md",
+                "file": "算法/单调队列-单调栈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "闵可夫斯基和"
+              "title": "单调队列-单调栈"
             },
             "group": "60073f95ad8f7782"
           },
           {
-            "id": "e754ac0f8580d988",
+            "id": "74973a5d3d0ccbb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/论区间覆盖的暴力退标记.md",
+                "file": "磁场.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论区间覆盖的暴力退标记"
+              "title": "磁场"
+            }
+          },
+          {
+            "id": "98a8599b746f4782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/赛前金句.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "赛前金句"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +63,7 @@
       {
         "id": "ae63772503221db0",
         "type": "tabs",
-        "dimension": 58.69140625,
+        "dimension": 58.68725868725869,
         "children": [
           {
             "id": "36f0a6be8d1506e6",
@@ -68,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "KD",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +109,7 @@
       {
         "id": "7a8af759aa0e3706",
         "type": "tabs",
-        "dimension": 41.30859375,
+        "dimension": 41.312741312741316,
         "children": [
           {
             "id": "0f4ec4c822438e86",
@@ -129,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/闵可夫斯基和.md",
+                "file": "磁场.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "闵可夫斯基和 的反向链接列表"
+              "title": "磁场 的反向链接列表"
             }
           },
           {
@@ -211,12 +226,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/闵可夫斯基和.md",
+                "file": "算法/单调队列-单调栈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "闵可夫斯基和"
+              "title": "单调队列-单调栈"
             },
             "group": "60073f95ad8f7782"
           }
@@ -236,9 +251,9 @@
               "state": {
                 "file": "Home.canvas",
                 "viewState": {
-                  "x": 512.9961585533033,
-                  "y": 2150.7670412916586,
-                  "zoom": -0.5647471813146208
+                  "x": 691.4984020442707,
+                  "y": 2652.5615133268852,
+                  "zoom": -0.9999999999999998
                 }
               },
               "pinned": true,
@@ -262,47 +277,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a9523ca4f9ee881",
+  "active": "74973a5d3d0ccbb7",
   "lastOpenFiles": [
-    "算法/计算几何.md",
+    "推出安培力.md",
+    "磁场.md",
+    "Home.canvas",
+    "电磁学.md",
+    "文化课/物理/物理.md",
+    "电场.md",
+    "文化课/文化课专栏.md",
     "总目录：.md",
-    "算法/论区间覆盖的暴力退标记.md",
-    "算法/动态规划.md",
-    "算法/贪心.md",
-    "算法/线段覆盖.md",
-    "算法/二进制.md",
-    "算法/数据结构.md",
-    "算法/支配对.md",
-    "算法/区间的序列区间查询.md",
-    "算法/KD-Tree.md",
-    "算法/RMQ问题.md",
-    "算法/模拟费用流.md",
-    "算法/Trie.md",
-    "算法/堆.md",
-    "算法/扫描线.md",
-    "算法/笛卡尔树.md",
-    "算法/分块/分块.md",
-    "算法/平衡树.md",
-    "算法/线段树.md",
-    "题解/P7907 Ynoi2005 rmscne 题解.md",
-    "算法/概率与期望.md",
-    "算法/数论.md",
-    "算法/最短路.md",
-    "node_modules/prismjs/CHANGELOG.md",
-    "算法/计数专题.md",
+    "算法/单调队列-单调栈.md",
+    "文化课/物理",
+    "单调队列/单调栈.md",
+    "文化课/化学/概念与定义/有机合成.md",
+    "文化课/化学/概念与定义/官能团的引入.md",
+    "文化课/化学/概念与定义/同系物.md",
+    "文化课/化学/概念与定义",
+    "文化课/化学/有机物/苯.md",
+    "文化课/化学/有机物/羧基.md",
+    "文化课/化学/有机物/硝基苯.md",
+    "文化课/化学/有机物/硝基.md",
+    "文化课/化学/有机物/甲基苯.md",
+    "文化课/化学/有机物/甲基.md",
+    "文化课/化学/有机物/烯烃.md",
+    "文化课/化学/有机物/炔烃.md",
+    "文化课/化学/有机物/溴苯.md",
+    "文化课/化学/有机物/官能团.md",
+    "文化课/化学/有机物/卤代烃.md",
+    "文化课/化学/无机物/卤酸.md",
+    "文化课/化学/无机物/卤素单质.md",
+    "文化课/化学/无机物/KMnO4.md",
+    "文化课/化学/有机物",
+    "文化课/化学/无机物",
+    "文化课/化学",
+    "文化课",
+    "新建文件夹",
+    "单调队列",
     "文件夹/~$扫描线模型.pptx",
     "文件夹/~$函数复合.pptx",
-    "文件夹/函数复合.pptx",
-    "文件夹/扫描线模型.pptx",
-    "文件夹/~$数据结构维护凸壳.pptx",
-    "文件夹/数据结构维护凸壳.pptx",
     "文件夹/Pasted image 20250216163531.png",
     "文件夹/Pasted image 20250216163557.png",
-    "文件夹/problem.pdf",
-    "文件夹/sol(3).pdf",
-    "文件夹/problem2.pdf",
-    "文件夹/2.pdf",
-    "Home.canvas",
     "円香姐姐.jpg",
     "Pasted image 20250122221200.png",
     "image/Pasted image 20250122221308.png"
