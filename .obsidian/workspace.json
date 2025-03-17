@@ -13,41 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/单调队列-单调栈.md",
+                "file": "文化课/生物/基因工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单调队列-单调栈"
+              "title": "基因工程"
             },
             "group": "60073f95ad8f7782"
           },
           {
-            "id": "74973a5d3d0ccbb7",
+            "id": "4225f1e226168dbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "磁场.md",
+                "file": "题单/邓哥NOI考前题单(记录版).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "磁场"
-            }
-          },
-          {
-            "id": "98a8599b746f4782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/赛前金句.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "赛前金句"
+              "title": "邓哥NOI考前题单(记录版)"
             }
           }
         ],
@@ -71,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -83,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "BSE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,9 +131,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "磁场.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "核糖？核苷？核糖核苷？.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -154,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "磁场 的反向链接列表"
+              "title": "核糖？核苷？核糖核苷？ 的反向链接列表"
             }
           },
           {
@@ -204,16 +191,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/树上问题.md",
-                "followCursor": true,
-                "showSearch": true,
+                "file": "题单/邓哥NOI考前题单(记录版).md",
+                "followCursor": false,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "树上问题 的大纲"
+              "title": "邓哥NOI考前题单(记录版) 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "b4e50212cceacec2",
@@ -226,12 +214,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/单调队列-单调栈.md",
+                "file": "文化课/生物/基因工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单调队列-单调栈"
+              "title": "基因工程"
             },
             "group": "60073f95ad8f7782"
           }
@@ -252,7 +240,7 @@
                 "file": "Home.canvas",
                 "viewState": {
                   "x": 691.4984020442707,
-                  "y": 2652.5615133268852,
+                  "y": 2838.5615133268852,
                   "zoom": -0.9999999999999998
                 }
               },
@@ -277,45 +265,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74973a5d3d0ccbb7",
+  "active": "4225f1e226168dbb",
   "lastOpenFiles": [
-    "推出安培力.md",
-    "磁场.md",
-    "Home.canvas",
-    "电磁学.md",
-    "文化课/物理/物理.md",
-    "电场.md",
-    "文化课/文化课专栏.md",
-    "总目录：.md",
-    "算法/单调队列-单调栈.md",
-    "文化课/物理",
-    "单调队列/单调栈.md",
-    "文化课/化学/概念与定义/有机合成.md",
-    "文化课/化学/概念与定义/官能团的引入.md",
-    "文化课/化学/概念与定义/同系物.md",
-    "文化课/化学/概念与定义",
+    "题单/邓哥NOI考前题单.md",
+    "题单/邓哥NOI考前题单(记录版).md",
+    "题单",
     "文化课/化学/有机物/苯.md",
-    "文化课/化学/有机物/羧基.md",
-    "文化课/化学/有机物/硝基苯.md",
-    "文化课/化学/有机物/硝基.md",
-    "文化课/化学/有机物/甲基苯.md",
-    "文化课/化学/有机物/甲基.md",
-    "文化课/化学/有机物/烯烃.md",
-    "文化课/化学/有机物/炔烃.md",
-    "文化课/化学/有机物/溴苯.md",
+    "文化课/生物/基因工程.md",
     "文化课/化学/有机物/官能团.md",
+    "文化课/化学/有机物/炔烃.md",
+    "文化课/化学/有机物/烯烃.md",
+    "查漏补缺.md",
+    "文化课/化学/有机物/硝基.md",
+    "文化课/化学/有机物/甲基.md",
     "文化课/化学/有机物/卤代烃.md",
-    "文化课/化学/无机物/卤酸.md",
-    "文化课/化学/无机物/卤素单质.md",
-    "文化课/化学/无机物/KMnO4.md",
+    "日记/mygr的日记/2025年/2025.3.14 学习计划.md",
+    "题解/U542924 Strange Higuchi Madoka Game 题解.md",
+    "文化课/物理/质能方程，质量亏损和比结合能.md",
+    "文化课/物理/波粒二象性.md",
+    "Pasted image 20250313212929.png",
+    "文化课/生物/细胞工程.md",
+    "文化课/生物/生物.md",
+    "文化课/物理/物理.md",
+    "文化课/物理/近代物理.md",
+    "文化课/物理/四种核反应方程.md",
+    "文化课/物理/衰变与半衰期.md",
+    "文化课/物理/原子核的组成和三种射线.md",
+    "文化课/物理/光谱与玻尔的原子模型.md",
+    "文化课/物理/光电管电路分析.md",
+    "文化课/物理/光电效应.md",
+    "题解/U542641 PA 2025 点兵点将  Wyliczanka 题解.md",
+    "未命名.canvas",
+    "文化课/生物",
+    "文件夹/~$交变电流高考真题讲评.pptx",
+    "文件夹/交变电流高考真题讲评.pptx",
+    "Home.canvas",
+    "文化课/物理",
+    "文化课/化学/概念与定义",
     "文化课/化学/有机物",
     "文化课/化学/无机物",
     "文化课/化学",
     "文化课",
-    "新建文件夹",
-    "单调队列",
-    "文件夹/~$扫描线模型.pptx",
-    "文件夹/~$函数复合.pptx",
     "文件夹/Pasted image 20250216163531.png",
     "文件夹/Pasted image 20250216163557.png",
     "円香姐姐.jpg",

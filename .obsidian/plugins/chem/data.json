@@ -1,0 +1,35 @@
+{
+  "version": "v3",
+  "darkTheme": "dark",
+  "lightTheme": "gruvbox",
+  "sample1": "c1ccccc1",
+  "sample2": "CO",
+  "copy": {
+    "scale": 2,
+    "transparent": true,
+    "theme": "default"
+  },
+  "dataview": false,
+  "inlineSmiles": false,
+  "inlineSmilesPrefix": "$smiles=",
+  "core": "rdkit",
+  "commonOptions": {
+    "width": 300,
+    "scale": 1,
+    "unifiedWidth": 300,
+    "compactDrawing": false,
+    "explicitHydrogens": false,
+    "explicitMethyl": false
+  },
+  "smilesDrawerOptions": {
+    "moleculeOptions": {
+      "scale": 1,
+      "explicitHydrogens": false,
+      "terminalCarbons": false
+    },
+    "reactionOptions": {}
+  },
+  "rdkitOptions": {
+    "explicitMethyl": false
+  }
+}
