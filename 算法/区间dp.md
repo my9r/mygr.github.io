@@ -9,4 +9,6 @@
 
 对于代价随着时间的变化而增长，满足条件后停止增长的问题，可以考虑把每一时刻的代价表示为每一时刻未满足条件的代价的和 [修缮长城](https://www.luogu.com.cn/problem/UVA1336) ，或是将每一段的代价乘上未来累计所需的时间 [修车](https://www.luogu.com.cn/problem/P2053)
 
-对于字符串的拼接问题，也可以使用区间dp去解决 [https://www.luogu.com.cn/problem/P2400](机密文件)
+对于字符串的拼接问题，也可以使用区间dp去解决 [机密文件](https://www.luogu.com.cn/problem/P2400)
+
+对于树上问题，尝试将树拍成一个序列(中序遍历，dfn等)，转化为序列上dp，就可以进行区间dp了 [# P1864 NOI2009 二叉查找树](https://www.luogu.com.cn/problem/P1864)

@@ -1,3 +1,13 @@
+
+--------------
+附加题单：
+
+[CF Tree](https://www.luogu.com.cn/training/2892)
+
+[Hyper ds](https://www.luogu.com.cn/training/2971)
+
+--------------
+
 [P6775 NOI2020 制作菜品](https://www.luogu.com.cn/problem/P6775)
 
 [P8865 NOIP2022 种花](https://www.luogu.com.cn/problem/P8865)
@@ -454,120 +464,120 @@
 
 [CF603E Pastoral Oddities](https://www.luogu.com.cn/problem/CF603E)
 
-[https://www.luogu.com.cn/problem/P2152](https://www.luogu.com.cn/problem/P2152)
+[# P2152 [SDOI2009] SuperGCD](https://www.luogu.com.cn/problem/P2152)
 
 [AT_arc084_b [ABC077D] Small Multiple](https://www.luogu.com.cn/problem/AT_arc084_b)
 
 [CF578F Mirror Box](https://www.luogu.com.cn/problem/CF578F)
 
-[CF1340F Nastya and CBS](https://www.luogu.com.cn/problem/CF1340F)
+[CF1340F Nastya and CBS](https://www.luogu.com.cn/problem/CF1340F) 😅
 
-[P4429 [BJOI2018] 染色](https://www.luogu.com.cn/problem/P4429)
+[P4429 [BJOI2018] 染色](https://www.luogu.com.cn/problem/P4429) 💀
 
-[P3992 [BJOI2017] 开车](https://www.luogu.com.cn/problem/P3992)
+[P3992 [BJOI2017] 开车](https://www.luogu.com.cn/problem/P3992) ✅
 
-[CF24D Broken robot](https://www.luogu.com.cn/problem/CF24D)
+[CF24D Broken robot](https://www.luogu.com.cn/problem/CF24D) ✅
 
-[AT_arc176_d [ARC176D] Swap Permutation](https://www.luogu.com.cn/problem/AT_arc176_d)
+[AT_arc176_d [ARC176D] Swap Permutation](https://www.luogu.com.cn/problem/AT_arc 176_d) ✅
 
-[P4457 [BJOI2018] 治疗之雨](https://www.luogu.com.cn/problem/P4457)
+[P4457 [BJOI2018] 治疗之雨](https://www.luogu.com.cn/problem/P4457) ✅
 
-[P5327 [ZJOI2019] 语言](https://www.luogu.com.cn/problem/P5327)
+[P5327 [ZJOI2019] 语言](https://www.luogu.com.cn/problem/P5327) ✅
 
-[CF1479D Odd Mineral Resource](https://www.luogu.com.cn/problem/CF1479D)
+[CF1479D Odd Mineral Resource](https://www.luogu.com.cn/problem/CF1479D) ✅
 
-[CF1771F Hossam and Range Minimum Query](https://www.luogu.com.cn/problem/CF1771F)
+[CF1771F Hossam and Range Minimum Query](https://www.luogu.com.cn/problem/CF1771F) ✅
 
-[CF1954F Unique Strings](https://www.luogu.com.cn/problem/CF1954F)
+[CF1954F Unique Strings](https://www.luogu.com.cn/problem/CF1954F) 💀
 
-[CF1956F Nene and the Passing Game](https://www.luogu.com.cn/problem/CF1956F)
+[CF1956F Nene and the Passing Game](https://www.luogu.com.cn/problem/CF1956F) ✅
 
-[SP10264 METEORS - Meteors](https://www.luogu.com.cn/problem/SP10264)
+[SP10264 METEORS - Meteors](https://www.luogu.com.cn/problem/SP10264) ✅
 
-[P3527 [POI 2011] MET-Meteors](https://www.luogu.com.cn/problem/P3527)
+[P3527 [POI 2011] MET-Meteors](https://www.luogu.com.cn/problem/P3527) ✅
 
 [CF1801G A task for substrings](https://www.luogu.com.cn/problem/CF1801G)
 
-[AT_abc349_g [ABC349G] Palindrome Construction](https://www.luogu.com.cn/problem/AT_abc349_g)
+[AT_abc349_g [ABC349G] Palindrome Construction](https://www.luogu.com.cn/problem/AT_abc349_g) ✅
 
-[CF914E Palindromes in a Tree](https://www.luogu.com.cn/problem/CF914E)
+[CF914E Palindromes in a Tree](https://www.luogu.com.cn/problem/CF914E) 😅
 
-[P3302 [SDOI2013] 森林](https://www.luogu.com.cn/problem/P3302)
+[P3302 [SDOI2013] 森林](https://www.luogu.com.cn/problem/P3302) ✅
 
-[CF375D Tree and Queries](https://www.luogu.com.cn/problem/CF375D)
+[CF375D Tree and Queries](https://www.luogu.com.cn/problem/CF375D) 😅
 
-[CF1918E ace5 and Task Order](https://www.luogu.com.cn/problem/CF1918E)
+[CF1918E ace5 and Task Order](https://www.luogu.com.cn/problem/CF1918E) 😅
 
-[CF938G Shortest Path Queries](https://www.luogu.com.cn/problem/CF938G)
+[CF938G Shortest Path Queries](https://www.luogu.com.cn/problem/CF938G) ✅
 
-[P5838 [USACO19DEC] Milk Visits G](https://www.luogu.com.cn/problem/P5838)
+[P5838 [USACO19DEC] Milk Visits G](https://www.luogu.com.cn/problem/P5838) 😅 
 
-[P5136 sequence](https://www.luogu.com.cn/problem/P5136)
+[P5136 sequence](https://www.luogu.com.cn/problem/P5136) ✅
 
-[CF1098F Ж-function](https://www.luogu.com.cn/problem/CF1098F)
+[CF1098F Ж-function](https://www.luogu.com.cn/problem/CF1098F) 💀
 
-[P2480 [SDOI2010] 古代猪文](https://www.luogu.com.cn/problem/P2480)
+[P2480 [SDOI2010] 古代猪文](https://www.luogu.com.cn/problem/P2480) ✅
 
-[CF156D Clues](https://www.luogu.com.cn/problem/CF156D)
+[CF156D Clues](https://www.luogu.com.cn/problem/CF156D) ✅
 
-[CF906D Power Tower](https://www.luogu.com.cn/problem/CF906D)
+[CF906D Power Tower](https://www.luogu.com.cn/problem/CF906D) ✅
 
-[CF717A Festival Organization](https://www.luogu.com.cn/problem/CF717A)
+[CF717A Festival Organization](https://www.luogu.com.cn/problem/CF717A) 💀
 
-[P3343 [ZJOI2015] 地震后的幻想乡](https://www.luogu.com.cn/problem/P3343)
+[P3343 [ZJOI2015] 地震后的幻想乡](https://www.luogu.com.cn/problem/P3343) ✅
 
-[CF786E ALT](https://www.luogu.com.cn/problem/CF786E)
+[CF786E ALT](https://www.luogu.com.cn/problem/CF786E) ✅
 
-[P3600 随机数生成器](https://www.luogu.com.cn/problem/P3600)
+[P3600 随机数生成器](https://www.luogu.com.cn/problem/P3600) ✅
 
-[AT_arc093_d [ARC093F] Dark Horse](https://www.luogu.com.cn/problem/AT_arc093_d)
+[AT_arc093_d [ARC093F] Dark Horse](https://www.luogu.com.cn/problem/AT_arc093_d) ✅
 
 [P4482 [BJWC2018] Border 的四种求法](https://www.luogu.com.cn/problem/P4482)
 
-[P1864 [NOI2009] 二叉查找树](https://www.luogu.com.cn/problem/P1864)
+[P1864 [NOI2009] 二叉查找树](https://www.luogu.com.cn/problem/P1864) ✅
 
-[P3171 [CQOI2015] 网络吞吐量](https://www.luogu.com.cn/problem/P3171)
+[P3171 [CQOI2015] 网络吞吐量](https://www.luogu.com.cn/problem/P3171) ❓
 
-[P3977 [TJOI2015] 棋盘](https://www.luogu.com.cn/problem/P3977)
+[P3977 [TJOI2015] 棋盘](https://www.luogu.com.cn/problem/P3977) 😅
 
-[P3976 [TJOI2015] 旅游](https://www.luogu.com.cn/problem/P3976)
+[P3976 [TJOI2015] 旅游](https://www.luogu.com.cn/problem/P3976) 😅
 
-[CF590E Birthday](https://www.luogu.com.cn/problem/CF590E)
+[CF590E Birthday](https://www.luogu.com.cn/problem/CF590E) ✅ 
 
-[P4298 [CTSC2008] 祭祀](https://www.luogu.com.cn/problem/P4298)
+[P4298 [CTSC2008] 祭祀](https://www.luogu.com.cn/problem/P4298) ✅
 
-[P3974 [TJOI2015] 组合数学](https://www.luogu.com.cn/problem/P3974)
+[P3974 [TJOI2015] 组合数学](https://www.luogu.com.cn/problem/P3974) ✅
 
-[P4454 [CQOI2018] 破解D-H协议](https://www.luogu.com.cn/problem/P4454)
+[P4454 [CQOI2018] 破解D-H协议](https://www.luogu.com.cn/problem/P4454) 
 
-[P2508 [HAOI2008] 圆上的整点](https://www.luogu.com.cn/problem/P2508)
+[P2508 [HAOI2008] 圆上的整点](https://www.luogu.com.cn/problem/P2508) ✅ 
 
-[P1539 [TJOI2011] 01矩阵](https://www.luogu.com.cn/problem/P1539)
+[P1539 [TJOI2011] 01矩阵](https://www.luogu.com.cn/problem/P1539) 😅
 
-[CF1264D2 Beautiful Bracket Sequence (hard version)](https://www.luogu.com.cn/problem/CF1264D2)
+[CF1264D2 Beautiful Bracket Sequence (hard version)](https://www.luogu.com.cn/problem/CF1264D2) ✅
 
-[CF1097G Vladislav and a Great Legend](https://www.luogu.com.cn/problem/CF1097G)
+[CF1097G Vladislav and a Great Legend](https://www.luogu.com.cn/problem/CF1097G) 🤔
 
-[CF785D Anton and School - 2](https://www.luogu.com.cn/problem/CF785D)
+[CF785D Anton and School - 2](https://www.luogu.com.cn/problem/CF785D) ✅
 
-[P5369 [PKUSC2018] 最大前缀和](https://www.luogu.com.cn/problem/P5369)
+[P5369 [PKUSC2018] 最大前缀和](https://www.luogu.com.cn/problem/P5369) ✅
 
-[CF1204E Natasha, Sasha and the Prefix Sums](https://www.luogu.com.cn/problem/CF1204E)
+[CF1204E Natasha, Sasha and the Prefix Sums](https://www.luogu.com.cn/problem/CF1204E) 😅
 
-[CF525E Anya and Cubes](https://www.luogu.com.cn/problem/CF525E)
+[CF525E Anya and Cubes](https://www.luogu.com.cn/problem/CF525E) 😅
 
-[AT_arc104_e [ARC104E] Random LIS](https://www.luogu.com.cn/problem/AT_arc104_e)
+[AT_arc104_e [ARC104E] Random LIS](https://www.luogu.com.cn/problem/AT_arc104_e ✅
 
-[P10272 在四方城外](https://www.luogu.com.cn/problem/P10272)
+[P10272 在四方城外](https://www.luogu.com.cn/problem/P10272) ✅
 
-[P7525 Shelter](https://www.luogu.com.cn/problem/P7525)
+[P7525 Shelter](https://www.luogu.com.cn/problem/P7525) ✅
 
-[CF762E Radio stations](https://www.luogu.com.cn/problem/CF762E)
+[CF762E Radio stations](https://www.luogu.com.cn/problem/CF762E) 😅
 
-[CF1045G AI robots](https://www.luogu.com.cn/problem/CF1045G)
+[CF1045G AI robots](https://www.luogu.com.cn/problem/CF1045G) 😅
 
-[AT_abc235_g [ABC235G] Gardens](https://www.luogu.com.cn/problem/AT_abc235_g)
+[AT_abc235_g [ABC235G] Gardens](https://www.luogu.com.cn/problem/AT_abc235_g) ✅
 
-[CF1943E2 MEX Game 2 (Hard Version)](https://www.luogu.com.cn/problem/CF1943E2)
+[CF1943E2 MEX Game 2 (Hard Version)](https://www.luogu.com.cn/problem/CF1943E2 ✅
 
 [P6821 [PA 2012] Tanie linie](https://www.luogu.com.cn/problem/P6821)  ❓

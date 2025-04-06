@@ -16,3 +16,5 @@
 + 最值分治转化为多个矩形的求和，[例](https://codeforces.com/contest/2009/problem/G3)
 
 判断为空/与0取max可以考虑根据上一次被清空位置分段 [美食家](https://zhuanlan.zhihu.com/p/15860052292) 
+
+矩阵加，矩阵求和问题，可以转化为动态二维数点问题，然后维护矩阵中数的式子的系数和求解 [# P11621 Ynoi Easy Round 2025 TEST_139](https://www.luogu.com.cn/problem/P11621)，看见矩阵求和第一时间先想着差分容斥变为 $2-side$ 问题

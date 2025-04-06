@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:总目录：",
+      "query": "file:总目录",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -18,18 +18,18 @@
       "query": "tag:#under_construction  ",
       "color": {
         "a": 1,
-        "rgb": 16743992
+        "rgb": 14725458
       }
     },
     {
       "query": "tag:#important  ",
       "color": {
         "a": 1,
-        "rgb": 64511
+        "rgb": 1044479
       }
     },
     {
-      "query": "",
+      "query": "tag:#structrue  ",
       "color": {
         "a": 1,
         "rgb": 5431378
