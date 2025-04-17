@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "连续段dp(线头dp).md",
+                "file": "算法/树上问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "连续段dp(线头dp)"
+              "title": "树上问题"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "单侧递归",
+                "query": "点边",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7a8af759aa0e3706",
@@ -219,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "连续段dp(线头dp).md",
+                "file": "算法/树上问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "连续段dp(线头dp) 的大纲"
+              "title": "树上问题 的大纲"
             }
           }
         ],
@@ -295,8 +296,19 @@
   },
   "active": "7c74a5fda4c6d2be",
   "lastOpenFiles": [
-    "算法/动态规划.md",
     "连续段dp(线头dp).md",
+    "算法/反演.md",
+    "算法/二项式反演.md",
+    "根号分治.md",
+    "日记/mygr的日记/2025年/2025.2.18.md",
+    "日记/mygr的日记/2025年/2025.2.17.md",
+    "文件夹/sol(1).pdf",
+    "文件夹/2.17-1.pdf",
+    "CF1924D Balanced Subsequences 题解.md",
+    "3676. 「北大集训 2021」小明的树 题解.md",
+    "2025.2.19.md",
+    "2.18.pdf",
+    "算法/动态规划.md",
     "总目录：.md",
     "算法/数据结构.md",
     "动态规划-题单.md",
@@ -313,14 +325,6 @@
     "算法/杂项Trick.md",
     "题解/QOJ 9611 木桶效应 题解.md",
     "草稿纸.md",
-    "算法/范德蒙德卷积.md",
-    "日记/mygr的日记/2025年/2025.2.5.md",
-    "题单/邓哥NOI考前题单(记录版).md",
-    "题解/P12062 列队 题解.md",
-    "算法/Dilworth定理.md",
-    "算法/概率与期望.md",
-    "算法/错排专题.md",
-    "算法/莫比乌斯反演.md",
     "image/Pasted image 20250122221308.png",
     "image/Pasted image 20250313212929.png",
     "题单",
@@ -332,9 +336,6 @@
     "文化课/物理",
     "文化课/化学/概念与定义",
     "文化课/化学/有机物",
-    "文化课/化学/无机物",
-    "文化课/化学",
-    "文化课",
     "文件夹/Pasted image 20250216163531.png",
     "文件夹/Pasted image 20250216163557.png",
     "image/円香姐姐.jpg",
