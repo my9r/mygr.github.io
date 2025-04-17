@@ -446,13 +446,13 @@
 
 [P4548 [CTSC2006] 歌唱王国](https://www.luogu.com.cn/problem/P4548)
 
-[CF850F Rainbow Balls](https://www.luogu.com.cn/problem/CF850F)
+[CF850F Rainbow Balls](https://www.luogu.com.cn/problem/CF850F) 💀
 
-[CF1349D Slime and Biscuits](https://www.luogu.com.cn/problem/CF1349D)
+[CF1349D Slime and Biscuits](https://www.luogu.com.cn/problem/CF1349D) 💀
 
-[CF1479E School Clubs](https://www.luogu.com.cn/problem/CF1479E)
+[CF1479E School Clubs](https://www.luogu.com.cn/problem/CF1479E) 💀
 
-[CF1025G Company Acquisitions](https://www.luogu.com.cn/problem/CF1025G)
+[CF1025G Company Acquisitions](https://www.luogu.com.cn/problem/CF1025G) 💀
 
 [P2606 [ZJOI2010] 排列计数](https://www.luogu.com.cn/problem/P2606)
 
@@ -460,7 +460,7 @@
 
 [P1587 [NOI2016] 循环之美](https://www.luogu.com.cn/problem/P1587)
 
-[P3412 仓鼠找sugar II](https://www.luogu.com.cn/problem/P3412)
+[P3412 仓鼠找sugar II](https://www.luogu.com.cn/problem/P3412) ✅
 
 [CF603E Pastoral Oddities](https://www.luogu.com.cn/problem/CF603E)
 
