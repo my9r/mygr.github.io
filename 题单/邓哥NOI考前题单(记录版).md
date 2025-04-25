@@ -372,7 +372,7 @@
 
 [P2619 [国家集训队] Tree I](https://www.luogu.com.cn/problem/P2619)
 
-[P5574 [CmdOI2019] 任务分配问题](https://www.luogu.com.cn/problem/P5574)
+[P5574 [CmdOI2019] 任务分配问题](https://www.luogu.com.cn/problem/P5574) ✅
 
 [AT_agc002_e [AGC002E] Candy Piles](https://www.luogu.com.cn/problem/AT_agc002_e)
 
