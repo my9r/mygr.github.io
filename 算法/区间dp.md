@@ -12,3 +12,6 @@
 对于字符串的拼接问题，也可以使用区间dp去解决 [机密文件](https://www.luogu.com.cn/problem/P2400)
 
 对于树上问题，尝试将树拍成一个序列(中序遍历，dfn等)，转化为序列上dp，就可以进行区间dp了 [# P1864 NOI2009 二叉查找树](https://www.luogu.com.cn/problem/P1864)
+
+动态加点，维护树的直径，可以考虑加点过后计算其到直径两端的距离，然后判断其是否为新的直径即可 [# CF2006E Iris's Full Binary Tree](https://www.luogu.com.cn/problem/CF2006E)
+

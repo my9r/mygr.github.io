@@ -276,7 +276,7 @@
 
 [P4043 [AHOI2014/JSOI2014] 支线剧情](https://www.luogu.com.cn/problem/P4043)
 
-[CF710F String Set Queries](https://www.luogu.com.cn/problem/CF710F)
+[CF710F String Set Queries](https://www.luogu.com.cn/problem/CF710F) ✅
 
 [P6173 [USACO16FEB] Circular Barn P](https://www.luogu.com.cn/problem/P6173)
 
@@ -298,17 +298,17 @@
 
 [P5470 [NOI2019] 序列](https://www.luogu.com.cn/problem/P5470)
 
-[CF436E Cardboard Box](https://www.luogu.com.cn/problem/CF436E)
+[CF436E Cardboard Box](https://www.luogu.com.cn/problem/CF436E) ✅
 
-[AT_arc150_d [ARC150D] Removing Gacha](https://www.luogu.com.cn/problem/AT_arc150_d)
+[AT_arc150_d [ARC150D] Removing Gacha](https://www.luogu.com.cn/problem/AT_arc150_d) ✅
 
-[AT_agc060_c [AGC060C] Large Heap](https://www.luogu.com.cn/problem/AT_agc060_c)
+[AT_agc060_c [AGC060C] Large Heap](https://www.luogu.com.cn/problem/AT_agc060_c) ✅
 
-[P3247 [HNOI2016] 最小公倍数](https://www.luogu.com.cn/problem/P3247)
+[P3247 [HNOI2016] 最小公倍数](https://www.luogu.com.cn/problem/P3247) ✅
 
-[P6765 [APIO2020] 交换城市](https://www.luogu.com.cn/problem/P6765)
+[P6765 [APIO2020] 交换城市](https://www.luogu.com.cn/problem/P6765) ✅
 
-[P6764 [APIO2020] 粉刷墙壁](https://www.luogu.com.cn/problem/P6764)
+[P6764 [APIO2020] 粉刷墙壁](https://www.luogu.com.cn/problem/P6764) ✅
 
 [P4345 [SHOI2015] 超能粒子炮·改](https://www.luogu.com.cn/problem/P4345)
 
@@ -326,15 +326,15 @@
 
 [CF364D Ghd](https://www.luogu.com.cn/problem/CF364D)
 
-[P6302 [NOI2019] 回家路线 加强版](https://www.luogu.com.cn/problem/P6302)
+[P6302 [NOI2019] 回家路线 加强版](https://www.luogu.com.cn/problem/P6302) ✅
 
-[P5468 [NOI2019] 回家路线](https://www.luogu.com.cn/problem/P5468)
+[P5468 [NOI2019] 回家路线](https://www.luogu.com.cn/problem/P5468) ✅
 
 [P4867 Gty的妹子序列](https://www.luogu.com.cn/problem/P4867)
 
 [P2567 [SCOI2010] 幸运数字](https://www.luogu.com.cn/problem/P2567)
 
-[P4707 重返现世](https://www.luogu.com.cn/problem/P4707)
+[P4707 重返现世](https://www.luogu.com.cn/problem/P4707) ✅
 
 [P3175 [HAOI2015] 按位或](https://www.luogu.com.cn/problem/P3175)
 
