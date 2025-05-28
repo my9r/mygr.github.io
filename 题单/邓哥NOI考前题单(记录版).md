@@ -202,69 +202,69 @@
 
 [P5324 [BJOI2019] 删数](https://www.luogu.com.cn/problem/P5324)
 
-[CF632E Thief in a Shop](https://www.luogu.com.cn/problem/CF632E)
+[CF632E Thief in a Shop](https://www.luogu.com.cn/problem/CF632E) ✅
 
-[P5926 [JSOI2009] 面试的考验](https://www.luogu.com.cn/problem/P5926)
+[P5926 [JSOI2009] 面试的考验](https://www.luogu.com.cn/problem/P5926) ✅
 
-[CF1793F Rebrending](https://www.luogu.com.cn/problem/CF1793F)
+[CF1793F Rebrending](https://www.luogu.com.cn/problem/CF1793F) ✅
 
-[CF765F Souvenirs](https://www.luogu.com.cn/problem/CF765F)
+[CF765F Souvenirs](https://www.luogu.com.cn/problem/CF765F) ✅
 
-[AT_abc262_h [ABC262Ex] Max Limited Sequence](https://www.luogu.com.cn/problem/AT_abc262_h)
+[AT_abc262_h [ABC262Ex] Max Limited Sequence](https://www.luogu.com.cn/problem/AT_abc262_h) ✅
 
 [P3688 [ZJOI2017] 树状数组](https://www.luogu.com.cn/problem/P3688)
 
 [P3199 [HNOI2009] 最小圈](https://www.luogu.com.cn/problem/P3199)
 
-[P3778 [APIO2017] 商旅](https://www.luogu.com.cn/problem/P3778)
+[P3778 [APIO2017] 商旅](https://www.luogu.com.cn/problem/P3778) ✅
 
-[P1642 规划](https://www.luogu.com.cn/problem/P1642)
+[P1642 规划](https://www.luogu.com.cn/problem/P1642) 😅
 
-[P3705 [SDOI2017] 新生舞会](https://www.luogu.com.cn/problem/P3705)
+[P3705 [SDOI2017] 新生舞会](https://www.luogu.com.cn/problem/P3705) 😅
 
-[P4322 [JSOI2016] 最佳团体](https://www.luogu.com.cn/problem/P4322)
+[P4322 [JSOI2016] 最佳团体](https://www.luogu.com.cn/problem/P4322) 😅
 
-[P4223 期望逆序对](https://www.luogu.com.cn/problem/P4223)
+[P4223 期望逆序对](https://www.luogu.com.cn/problem/P4223) ✅
 
 [CF1100F Ivan and Burgers](https://www.luogu.com.cn/problem/CF1100F)
 
-[CF1175F The Number of Subpermutations](https://www.luogu.com.cn/problem/CF1175F)
+[CF1175F The Number of Subpermutations](https://www.luogu.com.cn/problem/CF1175F) 😅
 
-[CF1175G Yet Another Partiton Problem](https://www.luogu.com.cn/problem/CF1175G)
+[CF1175G Yet Another Partiton Problem](https://www.luogu.com.cn/problem/CF1175G) ✅
 
 [P5319 [BJOI2019] 奥术神杖](https://www.luogu.com.cn/problem/P5319)
 
 [P3201 [HNOI2009] 梦幻布丁](https://www.luogu.com.cn/problem/P3201)
 
-[CF1039D You Are Given a Tree](https://www.luogu.com.cn/problem/CF1039D)
+[CF1039D You Are Given a Tree](https://www.luogu.com.cn/problem/CF1039D)  ❓
 
 [CF1062E Company](https://www.luogu.com.cn/problem/CF1062E)
 
-[P3320 [SDOI2015] 寻宝游戏](https://www.luogu.com.cn/problem/P3320)
+[P3320 [SDOI2015] 寻宝游戏](https://www.luogu.com.cn/problem/P3320) ✅ 
 
-[P4425 [HNOI/AHOI2018] 转盘](https://www.luogu.com.cn/problem/P4425)
+[P4425 [HNOI/AHOI2018] 转盘](https://www.luogu.com.cn/problem/P4425)  ✅ 
 
-[P3571 [POI 2014] SUP-Supercomputer](https://www.luogu.com.cn/problem/P3571)
+[P3571 [POI 2014] SUP-Supercomputer](https://www.luogu.com.cn/problem/P3571) 💀
 
 [CF576D Flights for Regular Customers](https://www.luogu.com.cn/problem/CF576D)
 
-[CF348D Turtles](https://www.luogu.com.cn/problem/CF348D)
+[CF348D Turtles](https://www.luogu.com.cn/problem/CF348D) ✅ 
 
 [P7736 [NOI2021] 路径交点](https://www.luogu.com.cn/problem/P7736)
 
-[P6772 [NOI2020] 美食家](https://www.luogu.com.cn/problem/P6772)
+[P6772 [NOI2020] 美食家](https://www.luogu.com.cn/problem/P6772)  ✅ 
 
 [P4590 [TJOI2018] 游园会](https://www.luogu.com.cn/problem/P4590)
 
-[P3441 [POI 2006] MET-Subway](https://www.luogu.com.cn/problem/P3441)
+[P3441 [POI 2006] MET-Subway](https://www.luogu.com.cn/problem/P3441) ✅ 
 
-[P3438 [POI 2006] ZAB-Frogs](https://www.luogu.com.cn/problem/P3438)
+[P3438 [POI 2006] ZAB-Frogs](https://www.luogu.com.cn/problem/P3438) ✅
 
-[P4284 [SHOI2014] 概率充电器](https://www.luogu.com.cn/problem/P4284)
+[P4284 [SHOI2014] 概率充电器](https://www.luogu.com.cn/problem/P4284) ✅
 
-[P4390 [BalkanOI 2007] Mokia 摩基亚](https://www.luogu.com.cn/problem/P4390)
+[P4390 [BalkanOI 2007] Mokia 摩基亚](https://www.luogu.com.cn/problem/P4390) ✅
 
-[P2487 [SDOI2011] 拦截导弹](https://www.luogu.com.cn/problem/P2487)
+[P2487 [SDOI2011] 拦截导弹](https://www.luogu.com.cn/problem/P2487) ✅
 
 [CF643C Levels and Regions](https://www.luogu.com.cn/problem/CF643C)
 
