@@ -170,37 +170,37 @@
 
 [CF1973F Maximum GCD Sum Queries](https://www.luogu.com.cn/problem/CF1973F)
 
-[P4769 [NOI2018] 冒泡排序](https://www.luogu.com.cn/problem/P4769)
+[P4769 [NOI2018] 冒泡排序](https://www.luogu.com.cn/problem/P4769) ✅
 
 [P9478 [NOI2023] 方格染色](https://www.luogu.com.cn/problem/P9478)
 
-[CF1969F Card Pairing](https://www.luogu.com.cn/problem/CF1969F)
+[CF1969F Card Pairing](https://www.luogu.com.cn/problem/CF1969F) ✅
 
 [CF757G Can Bash Save the Day?](https://www.luogu.com.cn/problem/CF757G)
 
-[P4565 [CTSC2018] 暴力写挂](https://www.luogu.com.cn/problem/P4565)
+[P4565 [CTSC2018] 暴力写挂](https://www.luogu.com.cn/problem/P4565) ✅
 
-[P4115 Qtree4](https://www.luogu.com.cn/problem/P4115)
+[P4115 Qtree4](https://www.luogu.com.cn/problem/P4115) 😅
 
-[P2056 [ZJOI2007] 捉迷藏](https://www.luogu.com.cn/problem/P2056)
+[P2056 [ZJOI2007] 捉迷藏](https://www.luogu.com.cn/problem/P2056) 😅
 
-[CF840C On the Bench](https://www.luogu.com.cn/problem/CF840C)
+[CF840C On the Bench](https://www.luogu.com.cn/problem/CF840C) ✅
 
-[P10552 [THUPC 2024 决赛] 警钟长鸣](https://www.luogu.com.cn/problem/P10552)
+[P10552 [THUPC 2024 决赛] 警钟长鸣](https://www.luogu.com.cn/problem/P10552) 😅
 
 [P4196 [CQOI2006] 凸多边形 /【模板】半平面交](https://www.luogu.com.cn/problem/P4196)
 
-[P4294 [WC2008] 游览计划](https://www.luogu.com.cn/problem/P4294)
+[P4294 [WC2008] 游览计划](https://www.luogu.com.cn/problem/P4294) 😅
 
-[P3264 [JLOI2015] 管道连接](https://www.luogu.com.cn/problem/P3264)
+[P3264 [JLOI2015] 管道连接](https://www.luogu.com.cn/problem/P3264) ✅
 
-[P6192 【模板】最小斯坦纳树](https://www.luogu.com.cn/problem/P6192)
+[P6192 【模板】最小斯坦纳树](https://www.luogu.com.cn/problem/P6192) ✅
 
-[CF840D Destiny](https://www.luogu.com.cn/problem/CF840D)
+[CF840D Destiny](https://www.luogu.com.cn/problem/CF840D) ✅
 
-[CF1096G Lucky Tickets](https://www.luogu.com.cn/problem/CF1096G)
+[CF1096G Lucky Tickets](https://www.luogu.com.cn/problem/CF1096G) ✅
 
-[P5324 [BJOI2019] 删数](https://www.luogu.com.cn/problem/P5324)
+[P5324 [BJOI2019] 删数](https://www.luogu.com.cn/problem/P5324) ✅
 
 [CF632E Thief in a Shop](https://www.luogu.com.cn/problem/CF632E) ✅
 
@@ -348,17 +348,17 @@
 
 [CF802N April Fools' Problem (medium)](https://www.luogu.com.cn/problem/CF802N)
 
-[CF739E Gosha is hunting](https://www.luogu.com.cn/problem/CF739E)
+[CF739E Gosha is hunting](https://www.luogu.com.cn/problem/CF739E)✅ 
 
-[P4383 [八省联考 2018] 林克卡特树](https://www.luogu.com.cn/problem/P4383)
+[P4383 [八省联考 2018] 林克卡特树](https://www.luogu.com.cn/problem/P4383) ✅
 
-[P5896 [IOI 2016] aliens](https://www.luogu.com.cn/problem/P5896)
+[P5896 [IOI 2016] aliens](https://www.luogu.com.cn/problem/P5896) ✅
 
 [CF786C Till I Collapse](https://www.luogu.com.cn/problem/CF786C)
 
 [P5308 [COCI 2018/2019 #4] Akvizna](https://www.luogu.com.cn/problem/P5308)
 
-[P4983 忘情](https://www.luogu.com.cn/problem/P4983)
+[P4983 忘情](https://www.luogu.com.cn/problem/P4983) ✅
 
 [CF321E Ciel and Gondolas](https://www.luogu.com.cn/problem/CF321E)
 
