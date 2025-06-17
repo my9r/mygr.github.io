@@ -1,14 +1,30 @@
 {
   "main": {
-    "id": "8968e4c83a5ff0bf",
+    "id": "308ca4649f1ee503",
     "type": "split",
     "children": [
       {
-        "id": "cf61745df6fabbef",
+        "id": "3e0de67fc6ef0b45",
         "type": "tabs",
         "children": [
           {
-            "id": "76d603f49f9578fc",
+            "id": "a0e8195a39c9f4cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/二进制.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "二进制"
+            }
+          },
+          {
+            "id": "e785bc618f155cc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,50 +38,50 @@
             }
           },
           {
-            "id": "98e2641c616bdce6",
+            "id": "d60662c449a67569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/mygr的日记/备份.md",
+                "file": "草稿纸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "备份"
+              "title": "草稿纸"
             }
           },
           {
-            "id": "dae9d4a8da6039c7",
+            "id": "9061217232477676",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/manacher.md",
+                "file": "算法/杂项Trick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manacher"
+              "title": "杂项Trick"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4983ae7daea23db1",
+    "id": "e858b90ee35334e3",
     "type": "split",
     "children": [
       {
-        "id": "ae63772503221db0",
+        "id": "7b99262684097888",
         "type": "tabs",
-        "dimension": 58.68725868725869,
+        "dimension": 58.10546875,
         "children": [
           {
-            "id": "36f0a6be8d1506e6",
+            "id": "5bf845c0d89351d7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,12 +94,12 @@
             }
           },
           {
-            "id": "08db16e3b5fe59ea",
+            "id": "d5d45dc709b8d542",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "回文",
+                "query": "杂项",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +111,7 @@
             }
           },
           {
-            "id": "883dfdd11cbf2cb2",
+            "id": "35bf4693c1540414",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,15 +120,16 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "7a8af759aa0e3706",
+        "id": "529b0600938b6eea",
         "type": "tabs",
-        "dimension": 41.312741312741316,
+        "dimension": 41.89453125,
         "children": [
           {
-            "id": "0f4ec4c822438e86",
+            "id": "c36b9bdb4847bcc7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -127,26 +144,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 436.5
   },
   "right": {
-    "id": "57df1eeeb7192000",
+    "id": "4da4fe938a97d7e9",
     "type": "split",
     "children": [
       {
-        "id": "5ef1402b42ba4d65",
+        "id": "602d400789d25c01",
         "type": "tabs",
-        "dimension": 24.559777571825762,
         "children": [
           {
-            "id": "ab85d4b1f3ba2dfb",
+            "id": "813fbfa9df06fe7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "核糖？核苷？核糖核苷？.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "算法/杂项Trick.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -154,38 +170,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "核糖？核苷？核糖核苷？ 的反向链接列表"
+              "title": "杂项Trick 的反向链接列表"
             }
           },
           {
-            "id": "9cf22bddd63e7be2",
+            "id": "af41d78f8e8cc90f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "状态压缩.md",
+                "file": "题单/邓哥NOI考前题单(记录版).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "状态压缩 的出链列表"
+              "title": "邓哥NOI考前题单(记录版) 的出链列表"
             }
           },
           {
-            "id": "b687bc89d16f9387",
+            "id": "e1d7e3c9b661621d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "830fd56e5e2e5f8a",
+            "id": "e403a1518be8513d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -199,73 +217,47 @@
             }
           },
           {
-            "id": "3a71a8d40d885f59",
+            "id": "3c6cfd8496edf77d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/mygr的日记/备份.md",
+                "file": "题单/邓哥NOI考前题单(记录版).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "备份 的大纲"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "acf67816417ae8c2",
-        "type": "tabs",
-        "dimension": 43.46617238183504,
-        "children": [
-          {
-            "id": "deee5644914ba5e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "近期任务安排.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "近期任务安排"
+              "title": "邓哥NOI考前题单(记录版) 的大纲"
             }
           }
         ]
       },
       {
-        "id": "3401128015c5d7f9",
+        "id": "2c97d221ea7be7f3",
         "type": "tabs",
-        "dimension": 31.9740500463392,
         "children": [
           {
-            "id": "b9c0252f08da4691",
+            "id": "2b5c1277db032f0f",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": 691.4984020442707,
-                  "y": 2838.5615133268852,
-                  "zoom": -0.9999999999999998
-                }
+                "file": "算法/二进制.md",
+                "mode": "preview",
+                "source": false
               },
               "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "二进制"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,52 +269,46 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "98e2641c616bdce6",
+  "active": "9061217232477676",
   "lastOpenFiles": [
-    "算法/哈希.md",
-    "算法/manacher.md",
-    "近期任务安排.md",
-    "算法/概率与期望.md",
-    "算法/数论.md",
     "总目录：.md",
-    "草稿纸.md",
-    "算法/STD.md",
-    "题单/邓哥NOI考前题单(记录版).md",
-    "算法/对 2 取模意义下的组合数.md",
-    "算法/赛前金句.md",
+    "算法/动态规划.md",
+    "日记/mygr的日记/2025年/2025.3.14 学习计划.md",
+    "算法/异或.md",
     "算法/杂项Trick.md",
-    "日记/mygr的日记/2024年/20241011.md",
-    "题单/邓哥NOI考前题单.md",
-    "题单/容斥原理-题单.md",
-    "日记/mygr的日记/京师后任.md",
+    "题单/zyf 推荐题单.md",
     "题解/P4769 NOI2018 冒泡排序 题解.md",
-    "日记/mygr的日记/遗愿清单.md",
-    "题单/查漏补缺.md",
-    "题单/动态规划-题单.md",
-    "日记/mygr的日记/2024年/20241012.md",
+    "题解/P4383 八省联考 2018 林克卡特树 题解.md",
+    "题解/P4223 期望逆序对 题解.md",
+    "题解/P12546 UOI 2025 Convex Array 题解.md",
+    "题单/江苏省集题单.md",
+    "近期任务安排.md",
+    "算法/多边形取交.md",
+    "日记/mygr的日记/备份.md",
+    "日记/mygr的日记/京师后任.md",
     "日记/mygr的日记/2025年/2025.6.2.md",
-    "算法/绝对众数.md",
-    "日记/mygr的日记/2024年/20241009.md",
-    "算法/卷积.md",
-    "算法/树上问题.md",
-    "模拟赛合集/各省省集/广东省集2025.rar",
+    "日记/mygr的日记/2025年/2025.5.27.md",
+    "日记/mygr的日记/2025年/2025.5.26.md",
+    "日记/mygr的日记/2025年/2025.5.23.md",
+    "日记/mygr的日记/2025年/2025.5.22.md",
+    "多边形取交.md",
+    "算法/二进制.md",
+    "题单/邓哥NOI考前题单(记录版).md",
+    "算法/字符串.md",
+    "草稿纸.md",
+    "算法/区间dp.md",
+    "模拟赛合集/hao20250612/statement.pdf",
     "模拟赛合集/各省省集/GD省集2025.pdf",
-    "模拟赛合集/各省省集",
-    "模拟赛合集",
-    "文化课/数学",
-    "文件夹/sol(1).pdf",
-    "文件夹/2.18.pdf",
-    "文件夹/2.17-1.pdf",
-    "image/円香姐姐.jpg",
-    "image/Pasted image 20250122221308.png",
-    "image/Pasted image 20250313212929.png",
-    "题单",
-    "未命名.canvas",
-    "文化课/生物",
-    "Home.canvas",
-    "文件夹/Pasted image 20250216163531.png",
-    "文件夹/Pasted image 20250216163557.png",
-    "円香姐姐.jpg",
-    "Pasted image 20250122221200.png"
+    "模拟赛合集/hao20250612/query/query7.in",
+    "模拟赛合集/hao20250612/query/query7.ans",
+    "模拟赛合集/hao20250612/query/query6.in",
+    "模拟赛合集/hao20250612/query/query6.ans",
+    "模拟赛合集/hao20250612/query/query5.in",
+    "模拟赛合集/hao20250612/query/query5.ans",
+    "模拟赛合集/hao20250612/query/query4.in",
+    "模拟赛合集/hao20250612/query/query4.ans",
+    "image/86cef701ae0b258585e7284dfd198550.png",
+    "image/d40f1025df6a11cb05688f1fe033ea45.png",
+    "日记/mygr的日记/TEXCOORD.canvas"
   ]
 }

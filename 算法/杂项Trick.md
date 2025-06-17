@@ -17,3 +17,6 @@
 
 ## Trick
 
+在类似于 “对...使用若干种操作，使得...” 的题目时，可以考虑求解出最终方案的充要条件，转化为判定性问题 [# A. Love Theory 爱论](https://qoj.ac/contest/2023/problem/11101)
+
+只通过前缀加，后缀加操作所形成的序列 ，一定满足 [# A. Love Theory 爱论](https://qoj.ac/contest/2023/problem/11101)
