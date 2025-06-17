@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/杂项Trick.md",
+                "file": "题解/3676. 「北大集训 2021」小明的树 题解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "杂项Trick"
+              "title": "3676. 「北大集训 2021」小明的树 题解"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "杂项",
+                "query": "小明",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/杂项Trick.md",
+                "file": "题解/3676. 「北大集训 2021」小明的树 题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "杂项Trick 的反向链接列表"
+              "title": "3676. 「北大集训 2021」小明的树 题解 的反向链接列表"
             }
           },
           {
@@ -271,11 +271,12 @@
   },
   "active": "9061217232477676",
   "lastOpenFiles": [
+    "算法/树上问题.md",
+    "算法/杂项Trick.md",
     "总目录：.md",
     "算法/动态规划.md",
     "日记/mygr的日记/2025年/2025.3.14 学习计划.md",
     "算法/异或.md",
-    "算法/杂项Trick.md",
     "题单/zyf 推荐题单.md",
     "题解/P4769 NOI2018 冒泡排序 题解.md",
     "题解/P4383 八省联考 2018 林克卡特树 题解.md",
@@ -296,7 +297,6 @@
     "题单/邓哥NOI考前题单(记录版).md",
     "算法/字符串.md",
     "草稿纸.md",
-    "算法/区间dp.md",
     "模拟赛合集/hao20250612/statement.pdf",
     "模拟赛合集/各省省集/GD省集2025.pdf",
     "模拟赛合集/hao20250612/query/query7.in",
