@@ -16,3 +16,5 @@
 动态加点，维护树的直径，可以考虑加点过后计算其到直径两端的距离，然后判断其是否为新的直径即可 [# CF2006E Iris's Full Binary Tree](https://www.luogu.com.cn/problem/CF2006E)
 
 对于取值区间只不交或包含的情况，可以考虑区间dp解决，若外部套了一个状压，且状压一定时长度相等，区间dp部分可以优化至 $O(n^2)$ [# P10197 USACO24FEB Minimum Sum of Maximums P](https://www.luogu.com.cn/problem/P10197)
+
+对于某些区间 dp 问题，可以发现其实际有用的区间很少，可以考虑将其提取出来 [# GCD 的代价](http://oj.daimayuan.top/contest/355/problem/3205)

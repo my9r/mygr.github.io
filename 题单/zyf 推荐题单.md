@@ -20,3 +20,6 @@
 [# P8291 [省选联考 2022] 学术社区](https://www.luogu.com.cn/problem/P8291) 史
 
 [# P8518 [IOI 2021] 分糖果](https://www.luogu.com.cn/problem/P8518)
+
+[# P5211 [ZJOI2017] 字符串](https://www.luogu.com.cn/problem/P5211)
+

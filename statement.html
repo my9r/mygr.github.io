@@ -1,0 +1,876 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<!-- saved from url=(0042)https://codeforces.com/gym/606293/problems -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" async="" src="./statement_files/analytics.js.下载"></script><script type="text/javascript" async="" src="./statement_files/js"></script><script async="" src="./statement_files/js(1)"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-743380-5');
+        </script>
+
+    
+    <meta name="X-Csrf-Token" content="8a509e9427b62906808a7372c66a2fe7">
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=0.01">
+    <meta name="robots" content="noai">
+    <meta name="robots" content="noimageai">
+
+    <script type="text/javascript" src="./statement_files/jquery-1.8.3.js.下载"></script>
+    <script type="application/javascript">
+        window.locale = "en";
+        window.standaloneContest = false;
+        function adjustViewport() {
+            var screenWidthPx = Math.min($(window).width(), window.screen.width);
+            var siteWidthPx = 1100; // min width of site
+            var ratio = Math.min(screenWidthPx / siteWidthPx, 1.0);
+            var viewport = "width=device-width, initial-scale=" + ratio;
+            $('#viewport').attr('content', viewport);
+            var style = $('<style>html * { max-height: 1000000px; }</style>');
+            $('html > head').append(style);
+        }
+
+        if ( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+            adjustViewport();
+        }
+
+        /* Protection against trailing dot in domain. */
+        let hostLength = window.location.host.length;
+        if (hostLength > 1 && window.location.host[hostLength - 1] === '.') {
+            window.location = window.location.protocol + "//" + window.location.host.substring(0, hostLength - 1);
+        }
+    </script>
+
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta http-equiv="profileName" content="f1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90">
+    <meta property="fb:admins" content="100001352546622">
+    <meta property="og:image" content="//codeforces.org/s/31505/images/codeforces-sponsored-by-ton.png">
+    <link rel="image_src" href="./statement_files/codeforces-sponsored-by-ton.png">
+    <meta property="og:title" content="Problems - Codeforces">
+    <meta property="og:description" content="">
+    
+    <meta property="og:site_name" content="Codeforces">
+    
+    
+    
+    
+    
+    
+    <meta name="utc_offset" content="+03:00">
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2">
+    <title>Problems - Codeforces</title>
+        <meta name="description" content="Codeforces. Programming competitions and contests, programming community">
+        <meta name="keywords" content="programming algorithm contest competition informatics olympiads c++ java graphs vkcup">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="./statement_files/font-awesome.min.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/line-awesome.min.css" type="text/css" charset="utf-8">
+
+        <link href="./statement_files/css" rel="stylesheet" type="text/css">
+        <link href="./statement_files/css(1)" rel="stylesheet" type="text/css">
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://codeforces.org/s/31505/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://codeforces.org/s/31505/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://codeforces.org/s/31505/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://codeforces.org/s/31505/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://codeforces.org/s/31505/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://codeforces.org/s/31505/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://codeforces.org/s/31505/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://codeforces.org/s/31505/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://codeforces.org/s/31505/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://codeforces.org/s/31505/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://codeforces.org/s/31505/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://codeforces.org/s/31505/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://codeforces.org/s/31505/favicon-16x16.png">
+    <link rel="manifest" href="https://codeforces.com/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="//codeforces.org/s/31505/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!--CombineResourcesFilter-->
+    <link rel="stylesheet" href="./statement_files/prettify.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/clear.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/style.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/ttypography.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/problem-statement.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/second-level-menu.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/roundbox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/datatable.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/table-form.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/topic.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/jquery.jgrowl.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/facebox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/jquery.wysiwyg.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/jquery.autocomplete.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/codeforces.datepick.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/colorbox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/jquery.drafts.css" type="text/css" charset="utf-8">
+        <link rel="stylesheet" href="./statement_files/community.css" type="text/css" charset="utf-8">
+        <link rel="stylesheet" href="./statement_files/sidebar-menu.css" type="text/css" charset="utf-8">
+
+    <!-- MathJax -->
+    <script type="text/x-mathjax-config;executed=true">
+    MathJax.Hub.Config({
+      tex2jax: {inlineMath: [['$$$','$$$']], displayMath: [['$$$$$$','$$$$$$']]}
+    });
+    MathJax.Hub.Register.StartupHook("End", function () {
+        Codeforces.runMathJaxListeners();
+    });
+    </script>
+    <script type="text/javascript" async="" src="./statement_files/MathJax.js.下载">
+    </script>
+    <!-- /MathJax -->
+
+    <script type="text/javascript" src="./statement_files/prettify.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/moment-with-locales.min.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/pushstream.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.easing.min.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.lavalamp.min.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.jgrowl.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.swipe.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.hotkeys.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/facebox.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.wysiwyg.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/wysiwyg.colorpicker.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/wysiwyg.table.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/wysiwyg.image.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/wysiwyg.link.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.autocomplete.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.datepick.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.ie6blocker.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.colorbox-min.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.ba-bbq.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/jquery.drafts.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/clipboard.min.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/autosize.min.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/sjcl.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/codeforces-options.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/codeforces.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/EventCatcher.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/preparedVerdictFormats-en.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/confetti.min.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/purify.min.js.下载"></script>
+    <!--/CombineResourcesFilter-->
+
+    <link rel="stylesheet" href="./statement_files/style(1).css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="./statement_files/style(2).css" type="text/css" charset="utf-8">
+
+
+    <script type="text/javascript" src="./statement_files/jquery.markitup.js.下载"></script>
+    <script type="text/javascript" src="./statement_files/set.js.下载"></script>
+
+    <!--[if IE]>
+    <style>
+        #sidebar {
+            padding-left: 1em;
+            margin: 1em 1em 1em 0;
+        }
+    </style>
+    <![endif]-->
+
+
+
+
+<style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><style type="text/css">.MathJax_Preview .MJXf-math {color: inherit!important}
+</style><style type="text/css">.MJX_Assistive_MathML {position: absolute!important; top: 0; left: 0; clip: rect(1px, 1px, 1px, 1px); padding: 1px 0 0 0!important; border: 0!important; height: 1px!important; width: 1px!important; overflow: hidden!important; display: block!important; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none}
+.MJX_Assistive_MathML.MJX_Assistive_MathML_Block {width: 100%!important}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style><style type="text/css">.MathJax_Preview {color: #888; display: contents}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style></head>
+<body class=" "><div id="MathJax_Message" style="display: none;"></div><span style="display:none;" class="csrf-token" data-csrf="8a509e9427b62906808a7372c66a2fe7">&nbsp;</span>
+
+<!-- .notificationTextCleaner used in Codeforces.showAnnouncements() -->
+<div class="notificationTextCleaner" style="font-size: 0"></div>
+<div class="button-up" style="display: none; opacity: 0.7; width: 50px; height:100%; position: fixed; left: 0; top: 0; cursor: pointer; text-align: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size: 3.0rem;"><i class="icon-circle-arrow-up"></i></div>
+<div class="verdictPrototypeDiv" style="display: none;"></div>
+
+<!-- Codeforces JavaScripts. -->
+<script type="text/javascript">
+    String.prototype.hashCode = function() {
+        var hash = 0, i, chr;
+        if (this.length === 0) return hash;
+        for (i = 0; i < this.length; i++) {
+            chr   = this.charCodeAt(i);
+            hash  = ((hash << 5) - hash) + chr;
+            hash |= 0; // Convert to 32bit integer
+        }
+        return hash;
+    };
+
+    var queryMobile = Codeforces.queryString.mobile;
+    if (queryMobile === "true" || queryMobile === "false") {
+        Codeforces.putToStorage("useMobile", queryMobile === "true");
+    } else {
+        var useMobile = Codeforces.getFromStorage("useMobile");
+        if (useMobile === true || useMobile === false) {
+            if (useMobile != false) {
+                Codeforces.redirect(Codeforces.updateUrlParameter(document.location.href, "mobile", useMobile));
+            }
+        }
+    }
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+
+
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+    (function () {
+        jQuery.expr[':'].containsCI = function(elem, index, match) {
+            return !match || !match.length || match.length < 4 || !match[3] || (
+                    elem.textContent || elem.innerText || jQuery(elem).text() || ''
+            ).toLowerCase().indexOf(match[3].toLowerCase()) >= 0;
+        }
+    }(jQuery));
+
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.getCodeforcesServerTime = function(callback) {
+        $.post("/data/time", {}, callback, "json");
+    }
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }, beforeSend: function(jqXHR, settings) {
+        const url = new URL(settings.url, window.location.href);
+        const urlHref = url.href;
+        url.searchParams.set('rv', Math.random().toString(36).substr(2, 9)); // Generate a random value
+        settings.url = url.href;
+    }});
+
+    window.updateTypography();
+    Codeforces.signForms();
+
+    setTimeout(function() {
+        $(".second-level-menu-list").lavaLamp({
+            fx: "backout",
+            speed: 700
+        });
+    }, 100);
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+        var count = 0;
+
+        function getDelay() {
+            var delay = 0;
+            var last = Codeforces.getFromStorage("LastOnlineTimeUpdaterMillis", 0);
+            if (last && last != null) {
+                var period = count < 20 ? 360 * 1000 : 600 * 1000; // 6 or 10 minutes.
+                delay = period - (new Date().getTime() - last);
+                if (delay < 0)
+                    delay = 0;
+            }
+            return delay;
+        }
+
+        window.setInterval(function () {
+            if (getDelay() <= 0 && count < 120) {
+                ++count;
+                Codeforces.ping("/data/update-online");
+            }
+        }, 5000);
+
+        var handle = "LMydd0225";
+        $("a.rated-user:contains(" + handle + "), span.participant:contains(" + handle + ")").each(function () {
+            if ($(this).text() == handle) {
+                var td = $(this).parent();
+                var tr = $(this).parent().parent();
+                if (td.is("td") && tr.is("tr") && !tr.hasClass("disable-highlight-self")) {
+                    info(handle);
+                    tr.addClass("highlighted-row");
+                }
+            }
+        });
+
+    function showAnnouncements(json) {
+        if (json.t === "a") {
+            setTimeout(function() {
+               Codeforces.showAnnouncements(json.d, "en");
+            }, Math.random() * 500);
+        }
+    }
+
+    function showEventCatcherUserMessage(json) {
+        if (json.t === "s") {
+            var points = json.d[5];
+            var passedTestCount = json.d[7];
+            var judgedTestCount = json.d[8];
+            var verdict = preparedVerdictFormats[json.d[12]];
+            var verdictPrototypeDiv = $(".verdictPrototypeDiv");
+            verdictPrototypeDiv.html(verdict);
+            if (judgedTestCount != null && judgedTestCount != undefined) {
+                verdictPrototypeDiv.find(".verdict-format-judged").text(judgedTestCount);
+            }
+            if (passedTestCount != null && passedTestCount != undefined) {
+                verdictPrototypeDiv.find(".verdict-format-passed").text(passedTestCount);
+            }
+            if (points != null && points != undefined) {
+                verdictPrototypeDiv.find(".verdict-format-points").text(points);
+            }
+            Codeforces.showMessage(verdictPrototypeDiv.text());
+        }
+    }
+
+    $(".clickable-title").each(function() {
+        var title = $(this).attr("data-title");
+        if (title) {
+            var tmp = document.createElement("DIV");
+            tmp.innerHTML = title;
+            $(this).attr("title", tmp.textContent || tmp.innerText || "");
+        }
+    });
+
+    $(".clickable-title").click(function() {
+        const title = $(this).attr("data-title");
+        const clazz = $(this).attr("data-clazz");
+        const props = {};
+        if (typeof (clazz) !== 'undefined') {
+            props['clazz'] = clazz;
+        }
+        if (title) {
+            Codeforces.alert(title, null, null, props);
+        } else {
+            Codeforces.alert($(this).attr("title"), null, null, props);
+        }
+    }).css("position", "relative").css("bottom", "3px");
+
+        Codeforces.showDelayedMessage();
+
+    Codeforces.reformatTimes();
+
+    //Codeforces.initializePubSub();
+    if (window.codeforcesOptions.subscribeServerUrl) {
+        window.eventCatcher = new EventCatcher(
+            window.codeforcesOptions.subscribeServerUrl,
+            [
+                Codeforces.getGlobalChannel(),
+                Codeforces.getUserChannel(),
+                Codeforces.getUserShowMessageChannel(),
+                Codeforces.getContestChannel(),
+                Codeforces.getParticipantChannel(),
+                Codeforces.getTalkChannel()
+            ]
+        );
+
+        if (Codeforces.getParticipantChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getParticipantChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getContestChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getContestChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getGlobalChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getGlobalChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getUserChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getUserChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getUserShowMessageChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getUserShowMessageChannel(), function(json) {
+                showEventCatcherUserMessage(json);
+            });
+        }
+    }
+
+    Codeforces.setupContestTimes("/data/contests");
+    Codeforces.setupSpoilers();
+    Codeforces.setupTutorials("/data/problemTutorial");
+        });
+    </script>
+
+
+<div id="body">
+<div style="width: 950px; margin: 0 auto;" class="compact-problemset">
+    <div id="header" style="position: relative; margin: 0;">
+        <div style="float:left;">
+                  <a href="https://codeforces.com/"><img height="65" style="height: 65px;" src="./statement_files/codeforces-sponsored-by-ton.png" alt="Codeforces"></a>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="https://codeforces.com/gym/606293/problems?locale=en"><img src="./statement_files/gb.png" title="In English" alt="In English"></a>
+                <a href="https://codeforces.com/gym/606293/problems?locale=ru"><img src="./statement_files/ru.png" title="По-русски" alt="По-русски"></a>
+            </div>
+        </div>
+        <br style="clear: both;">
+    </div>
+
+    <br style="clear: both;">
+
+    <div style="text-align: center; font-size: 1.8rem; margin-bottom: 0.5em;" class="caption">Codeforces Round Testing (Div. 1 + 2)  [Hamed_Ghaffari, Ali_BBN, Bahamin, _R00T, eren__, sweetweasel | Error_Yuan]</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+    <div class="problem-frames">
+        <div style="margin-bottom: 2em;">
+
+    <style>
+        #facebox .content:has(.diff-popup) {
+            width: 90vw;
+            max-width: 120rem !important;
+        }
+
+        .testCaseMarker {
+            position: absolute;
+            font-weight: bold;
+            font-size: 1rem;
+        }
+
+        .diff-popup {
+            width: 90vw;
+            max-width: 120rem !important;
+            display: none;
+            overflow: auto;
+        }
+
+        .input-output-copier {
+            font-size: 1.2rem;
+            float: right;
+            color: #888 !important;
+            cursor: pointer;
+            border: 1px solid rgb(185, 185, 185);
+            padding: 3px;
+            margin: 1px;
+            line-height: 1.1rem;
+            text-transform: none;
+        }
+
+        .input-output-copier:hover {
+            background-color: #def;
+        }
+
+        .test-explanation textarea {
+            width: 100%;
+            height: 1.5em;
+        }
+
+        .pending-submission-message {
+            color: darkorange !important;
+        }
+    </style>
+    <script>
+        const OPENING_SPACE = String.fromCharCode(1001);
+        const CLOSING_SPACE = String.fromCharCode(1002);
+
+        const nodeToText = function (node, pre) {
+            let result = [];
+
+            if (node.tagName === "SCRIPT" || node.tagName === "math"
+                || (node.classList && node.classList.contains("input-output-copier")))
+                return [];
+
+            if (node.tagName === "NOBR") {
+                result.push(OPENING_SPACE);
+            }
+
+            if (node.nodeType === Node.TEXT_NODE) {
+                let s = node.textContent;
+                if (!pre) {
+                    s = s.replace(/\s+/g, " ");
+                }
+                if (s.length > 0) {
+                    result.push(s);
+                }
+            }
+
+            if (pre && node.tagName === "BR") {
+                result.push("\n");
+            }
+
+            node.childNodes.forEach(function (child) {
+                result.push(nodeToText(child, node.tagName === "PRE").join(""));
+            });
+
+            if (node.tagName === "DIV"
+                || node.tagName === "P"
+                || node.tagName === "PRE"
+                || node.tagName === "UL"
+                || node.tagName === "LI"
+            ) {
+                result.push("\n");
+            }
+
+            if (node.tagName === "NOBR") {
+                result.push(CLOSING_SPACE);
+            }
+
+            return result;
+        }
+
+        const isSpecial = function (c) {
+            return c === ',' || c === '.' || c === ';' || c === ')' || c === ' ';
+        }
+
+        const convertStatementToText = function(statmentNode) {
+            const text = nodeToText(statmentNode, false).join("").replace(/ +/g, " ").replace(/\n\n+/g, "\n\n");
+            let result = [];
+            for (let i = 0; i < text.length; i++) {
+                const c = text.charAt(i);
+                if (c === OPENING_SPACE) {
+                    if (!((i > 0 && text.charAt(i - 1) === '(') || (result.length > 0 && result[result.length - 1] === ' '))) {
+                        result.push('+');
+                    }
+                } else if (c === CLOSING_SPACE) {
+                    if (!(i + 1 < text.length && isSpecial(text.charAt(i + 1)))) {
+                        result.push('-');
+                    }
+                } else {
+                    result.push(c);
+                }
+            }
+            return result.join("").split("\n").map(value => value.trim()).join("\n");
+        };
+    </script>
+    <div class="diff-popup">
+    </div>
+
+<div class="problemindexholder" problemindex="A" data-uuid="ps_71c2f7f42a38bb57ae3cb64c2f10c99c5db09816">
+    <div style="display: none; margin:1em 0;text-align: center; position: relative;" class="alert alert-info diff-notifier">
+        <div>The problem statement has recently been changed. <a class="view-changes" href="https://codeforces.com/gym/606293/problems#">View the changes.</a></div>
+        <span class="diff-notifier-close" style="position: absolute; top: 0.2em; right: 0.3em; cursor: pointer; font-size: 1.4em;">×</span>
+    </div>
+        <div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Mix Mex Max</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p> </p><p>You are given an array $$$a$$$ consisting of $$$n$$$ non-negative integers. However, some elements of $$$a$$$ are missing, and they are represented by $$$−1$$$.</p><p>We define that the array $$$a$$$ is <span class="tex-font-style-it">good</span> if and only if the following holds for every $$$1 \leq i \leq n-2$$$:</p><p>$$$$$$ \operatorname{mex}([a_i, a_{i+1}, a_{i+2}]) = \max([a_i, a_{i+1}, a_{i+2}]) - \min([a_i, a_{i+1}, a_{i+2}]), $$$$$$</p><p>where $$$\operatorname{mex}(b)$$$ denotes the minimum excluded (MEX)$$$^{\text{∗}}$$$ of the integers in $$$b$$$. </p><p>You have to determine whether you can make $$$a$$$ <span class="tex-font-style-it">good</span> after replacing each $$$-1$$$ in $$$a$$$ with a non-negative integer.</p><div class="statement-footnote"><p>$$$^{\text{∗}}$$$The minimum excluded (MEX) of a collection of integers $$$b_1, b_2, \ldots, b_k$$$ is defined as the smallest non-negative integer $$$x$$$ which does not occur in the collection $$$b$$$. </p></div></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 500$$$). The description of the test cases follows. </p><p>The first line of each test case contains a single integer $$$n$$$ ($$$3 \leq n \leq 100$$$) — the length of $$$a$$$.</p><p>The second line contains $$$n$$$ integers $$$a_1,a_2,\ldots,a_n$$$ ($$$-1 \leq a_i \leq 100$$$) — the elements of $$$a$$$. $$$a_i = -1$$$ denotes that this element is missing.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output <span class="tex-font-style-tt">"YES"</span> if it is possible, and <span class="tex-font-style-tt">"NO"</span> otherwise.</p><p>You can output the answer in any case (upper or lower). For example, the strings <span class="tex-font-style-tt">"yEs"</span>, <span class="tex-font-style-tt">"yes"</span>, <span class="tex-font-style-tt">"Yes"</span>, and <span class="tex-font-style-tt">"YES"</span> will be recognized as positive responses.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre><div class="test-example-line test-example-line-even test-example-line-0">7</div><div class="test-example-line test-example-line-odd test-example-line-1">3</div><div class="test-example-line test-example-line-odd test-example-line-1">-1 -1 -1</div><div class="test-example-line test-example-line-even test-example-line-2">6</div><div class="test-example-line test-example-line-even test-example-line-2">5 5 1 -1 -1 1</div><div class="test-example-line test-example-line-odd test-example-line-3">4</div><div class="test-example-line test-example-line-odd test-example-line-3">-1 -1 0 -1</div><div class="test-example-line test-example-line-even test-example-line-4">4</div><div class="test-example-line test-example-line-even test-example-line-4">-1 1 1 -1</div><div class="test-example-line test-example-line-odd test-example-line-5">3</div><div class="test-example-line test-example-line-odd test-example-line-5">3 3 -1</div><div class="test-example-line test-example-line-even test-example-line-6">5</div><div class="test-example-line test-example-line-even test-example-line-6">0 0 0 0 0</div><div class="test-example-line test-example-line-odd test-example-line-7">7</div><div class="test-example-line test-example-line-odd test-example-line-7">3 0 1 4 -1 2 3</div></pre></div><div class="output"><div class="title">Output</div><pre>YES
+NO
+NO
+YES
+YES
+NO
+NO
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, putting $$$ a_1 = a_2 = a_3 = 1 $$$ will make the array <span class="tex-font-style-it">good</span>.</p><p>In the second test case, none of $$$a_1$$$, $$$a_2$$$, and $$$a_3$$$ is missing. However, $$$ \operatorname{mex}([a_1, a_2, a_3]) \not = \max([a_1, a_2, a_3]) - \min([a_1, a_2, a_3]) $$$, so the array cannot be <span class="tex-font-style-it">good</span>, no matter how you replace the missing elements.</p><p>In the fifth test case, putting $$$ a_3 = 3 $$$ will make the array <span class="tex-font-style-it">good</span>.</p></div></div><p>  </p></div>
+</div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+            window.changedTests = new Set();
+
+        const inputFileDiv = $("div.input-file");
+        const inputFile = inputFileDiv.text();
+        const outputFileDiv = $("div.output-file");
+        const outputFile = outputFileDiv.text();
+
+
+        if (!endsWith(inputFile, "standard input")
+            && !endsWith(inputFile, "standard input")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "standard output")
+            && !endsWith(outputFile, "standard output")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        const titleDiv = $("div.header div.title");
+
+
+
+        String.prototype.replaceAll = function (search, replace) {
+            return this.split(search).join(replace);
+        };
+
+        $(".sample-test .title").each(function () {
+            const preId = ("id" + Math.random()).replaceAll(".", "0");
+            const cpyId = ("id" + Math.random()).replaceAll(".", "0");
+
+            $(this).parent().find("pre").attr("id", preId);
+            const $copy = $("<div title='Copy' data-clipboard-target='#" + preId + "' id='" + cpyId + "' class='input-output-copier'>Copy</div>");
+            $(this).append($copy);
+
+            const clipboard = new Clipboard('#' + cpyId, {
+                text: function (trigger) {
+                    const pre = document.querySelector('#' + preId);
+                    const lines = pre.querySelectorAll(".test-example-line");
+                    return Codeforces.filterClipboardText(pre.innerText, lines.length);
+                }
+            });
+
+            const isInput = $(this).parent().hasClass("input");
+
+            clipboard.on('success', function (e) {
+                if (isInput) {
+                    Codeforces.showMessage("The example input has been copied into the clipboard");
+                } else {
+                    Codeforces.showMessage("The example output has been copied into the clipboard");
+                }
+                e.clearSelection();
+            });
+        });
+
+        $(".test-form-item input").change(function () {
+            addPendingSubmissionMessage($($(this).closest("form")), "You changed the answer, do not forget to submit it if you want to save the changes");
+            const index = $(this).closest(".problemindexholder").attr("problemindex");
+            let test = "";
+            $(this).closest("form input").each(function () {
+                const test_ = $(this).attr("name");
+                if (test_ && test_.substring(0, 4) === "test") {
+                    test = test_;
+                }
+            });
+            if (index.length > 0 && test.length > 0) {
+                const indexTest = index + "::" + test;
+                window.changedTests.add(indexTest);
+            }
+        });
+
+        $(window).on('beforeunload', function () {
+            if (window.changedTests.size > 0) {
+                return 'Dialog text here';
+            }
+        });
+
+        autosize($('.test-explanation textarea'));
+
+        $(".test-example-line").hover(function() {
+            $(this).attr("class").split(" ").forEach((clazz) => {
+                if (clazz.substr(0, "test-example-line-".length) === "test-example-line-") {
+                    let end = clazz.substr("test-example-line-".length);
+                    if (end !== "even" && end !== "odd" && end !== "0") {
+                        let top = 1E20;
+                        let left = 1E20;
+                        let problem = $(this).closest(".problemindexholder");
+                        $(this).closest(".input").find("." + clazz).css("background-color", "#FFFDE7").each(function() {
+                            top = Math.min(top, $(this).offset().top);
+                            left = Math.min(left, $(this).offset().left);
+                        });
+                        let testCaseMarker = problem.find(".testCaseMarker_" + end);
+                        if (testCaseMarker.length === 0) {
+                            const html = "<div class=\"testCaseMarker testCaseMarker_" + end + " notice\"></div>";
+                            problem.append($(html));
+                            testCaseMarker = problem.find(".testCaseMarker_" + end);
+                        }
+                        if (testCaseMarker) {
+                            testCaseMarker.show()
+                                    .offset({top, left: left - 20})
+                                    .text(end);
+                        }
+                    }
+                }
+            });
+        }, function() {
+            $(this).attr("class").split(" ").forEach((clazz) => {
+                if (clazz.substr(0, "test-example-line-".length) === "test-example-line-") {
+                    let end = clazz.substr("test-example-line-".length);
+                    if (end !== "even" && end !== "odd" && end !== "0") {
+                        $("." + clazz).css("background-color", "");
+                        $(this).closest(".problemindexholder").find(".testCaseMarker_" + end).hide();
+                    }
+                }
+            });
+        });
+
+    });
+</script>
+        </div>
+        <div style="margin-bottom: 2em;">
+
+
+<div class="problemindexholder" problemindex="B" data-uuid="ps_df44595ff394289e5b0740621bcd985d47d8a46b">
+    <div style="display: none; margin:1em 0;text-align: center; position: relative;" class="alert alert-info diff-notifier">
+        <div>The problem statement has recently been changed. <a class="view-changes" href="https://codeforces.com/gym/606293/problems#">View the changes.</a></div>
+        <span class="diff-notifier-close" style="position: absolute; top: 0.2em; right: 0.3em; cursor: pointer; font-size: 1.4em;">×</span>
+    </div>
+        <div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Hamiiid, Haaamid... Hamid?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p> </p><p>Mani has locked Hamid in a $$$1 \times n$$$ grid. Initially, some cells of the grid contain walls and the rest are empty, and Hamid is in an empty cell.</p><p>Everyday, the following events happen in order:</p><ol><li> Mani selects an empty cell and builds a wall in that cell. Note that he can <span class="tex-font-style-bf">not</span> build a wall in the cell which Hamid currently is at; </li><li> Hamid selects a direction (left or right), then:<ul><li> If there are no walls in that direction, he will escape the grid; </li><li> Otherwise, he will move to the nearest wall in that direction and destroy that wall. Hamid is at the position of the destroyed wall after this day.</li></ul></li></ol><p>Here is an example of a possible sequence of actions when $$$n=6$$$:</p><center> <img class="tex-graphics" src="./statement_files/ab63de6cab77bb94ac6f75d262ea734dd81cc4c7.webp" style="max-width: 100.0%;max-height: 100.0%;">  </center><p>Hamid wants to minimize the number of days that he needs to escape the grid, while Mani wants to maximize it.</p><p>You have to determine on which day Hamid will escape the grid if both of them act optimally.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10^4$$$). The description of the test cases follows. </p><p>The first line of each test case contains two integers $$$n$$$ and $$$x$$$ ($$$2 \leq n \leq 2 \cdot 10^5$$$, $$$1 \leq x \leq n$$$) — the size of the grid and the initial position of Hamid. He is at the $$$x$$$-th cell from left to right initially.</p><p>The second line contains a string $$$s$$$ of length $$$n$$$ ($$$s_i=\texttt{"#"}$$$ or $$$\texttt{"."}$$$) — the initial state of the grid. The $$$i$$$-th cell of the grid contains a wall if $$$s_i= \texttt{"#"}$$$, and it is empty if $$$s_i=\texttt{"."}$$$.</p><p>It is guaranteed that the $$$x$$$-th cell is empty, and there are at least two empty cells in the grid.</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$. </p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer — the number of days Hamid needs to escape the grid if they both act optimally.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">3 1</div><div class="test-example-line test-example-line-odd test-example-line-1">..#</div><div class="test-example-line test-example-line-even test-example-line-2">4 2</div><div class="test-example-line test-example-line-even test-example-line-2">....</div><div class="test-example-line test-example-line-odd test-example-line-3">5 3</div><div class="test-example-line test-example-line-odd test-example-line-3">##..#</div><div class="test-example-line test-example-line-even test-example-line-4">6 4</div><div class="test-example-line test-example-line-even test-example-line-4">#...#.</div></pre></div><div class="output"><div class="title">Output</div><pre>1
+1
+3
+3
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, the only place Mani can build a wall is cell $$$2$$$, so Hamid escapes from the left side of the grid on the first day.</p><p>In the second test case, if Mani places the wall to the left of Hamid, Hamid can escape from the right. And if the wall is to Hamid's right, he can escape from the left. Thus, the answer is $$$1$$$.</p><p>In the third test case:</p><center> <img class="tex-graphics" src="./statement_files/07a95f34ca3e675f2017588a71e411156b3efc40.webp" style="max-width: 100.0%;max-height: 100.0%;">  </center><p>It can be shown that both players acted optimally in the above illustration.</p><p>In the fourth test case, we have shown an example of actions in the statements. Note that the players did <span class="tex-font-style-bf">not</span> act optimally in this example.</p></div></div><p>  </p></div>
+</div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        const inputFileDiv = $("div.input-file");
+        const inputFile = inputFileDiv.text();
+        const outputFileDiv = $("div.output-file");
+        const outputFile = outputFileDiv.text();
+
+
+        if (!endsWith(inputFile, "standard input")
+            && !endsWith(inputFile, "standard input")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "standard output")
+            && !endsWith(outputFile, "standard output")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        const titleDiv = $("div.header div.title");
+
+
+
+
+    });
+</script>
+        </div>
+        <div style="margin-bottom: 2em;">
+
+
+<div class="problemindexholder" problemindex="C" data-uuid="ps_71c25479cb8f74a58a56daec66e91099e2637d40">
+    <div style="display: none; margin:1em 0;text-align: center; position: relative;" class="alert alert-info diff-notifier">
+        <div>The problem statement has recently been changed. <a class="view-changes" href="https://codeforces.com/gym/606293/problems#">View the changes.</a></div>
+        <span class="diff-notifier-close" style="position: absolute; top: 0.2em; right: 0.3em; cursor: pointer; font-size: 1.4em;">×</span>
+    </div>
+        <div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Trip Shopping</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p> </p><p><span class="tex-font-style-it">Bahamin and Benita decided to spend their summer vacation on the beautiful southern coasts of Iran. They also agreed to do some shopping during the trip — but instead of setting a fixed budget, they decided to determine how much they would spend by playing a game.</span></p><p>The game consists of two arrays $$$a$$$ and $$$b$$$, both containing $$$n$$$ integers.</p><p>The game will last for $$$k$$$ rounds. In one round: </p><ul> <li> First, Bahamin selects two indices $$$i$$$ and $$$j$$$ ($$$1 \leq i \lt j \leq n$$$). </li><li> Then, Benita rearranges the four integers $$$a_i$$$, $$$a_j$$$, $$$b_i$$$, and $$$b_j$$$ <span class="tex-font-style-bf">arbitrarily</span> (Swapping numbers between two arrays is also possible. You may check the examples for more details). Note that it is possible for Benita to keep the two arrays unchanged. </li></ul> <p>After all the $$$k$$$ rounds, the <span class="tex-font-style-it">value</span> of the game is defined as $$$v=\sum\limits_{i=1}^{n} |a_i-b_i|$$$. Bahamin and Benita will spend exactly $$$v$$$ coins during their trip.</p><p>However, their goals are quite different: </p><ul> <li> Bahamin wants to spend as little as possible, that is, to minimize $$$v$$$; </li><li> Benita wants to spend as much as possible, that is, to maximize $$$v$$$. </li></ul><p>You have to find the final amount of coins they will spend if both Bahamin and Benita play optimally.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10^4$$$). The description of the test cases follows. </p><p>The first line of each test case contains two integers $$$n$$$, $$$k$$$ ($$$2 \leq n \leq 2 \cdot 10^5$$$, $$$1 \leq k \leq n$$$) — the length of two arrays $$$a$$$ and $$$b$$$, and the number of rounds.</p><p>The second line contains $$$n$$$ integers $$$a_1,a_2,\ldots,a_n$$$ ($$$1 \leq a_i \leq 10^9$$$) — the elements of $$$a$$$.</p><p>The third line contains $$$n$$$ integers $$$b_1,b_2,\ldots,b_n$$$ ($$$1 \leq b_i \leq 10^9$$$) — the elements of $$$b$$$.</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$. </p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer — the final amount of coins they will spend if Bahamin and Benita play optimally.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre><div class="test-example-line test-example-line-even test-example-line-0">5</div><div class="test-example-line test-example-line-odd test-example-line-1">2 1</div><div class="test-example-line test-example-line-odd test-example-line-1">1 7</div><div class="test-example-line test-example-line-odd test-example-line-1">3 5</div><div class="test-example-line test-example-line-even test-example-line-2">3 2</div><div class="test-example-line test-example-line-even test-example-line-2">1 5 3</div><div class="test-example-line test-example-line-even test-example-line-2">6 2 4</div><div class="test-example-line test-example-line-odd test-example-line-3">5 4</div><div class="test-example-line test-example-line-odd test-example-line-3">1 16 10 10 16</div><div class="test-example-line test-example-line-odd test-example-line-3">3 2 2 15 15</div><div class="test-example-line test-example-line-even test-example-line-4">4 1</div><div class="test-example-line test-example-line-even test-example-line-4">23 1 18 4</div><div class="test-example-line test-example-line-even test-example-line-4">19 2 10 3</div><div class="test-example-line test-example-line-odd test-example-line-5">10 10</div><div class="test-example-line test-example-line-odd test-example-line-5">4 3 2 100 4 1 2 4 5 5</div><div class="test-example-line test-example-line-odd test-example-line-5">1 200 4 5 6 1 10 2 3 4</div></pre></div><div class="output"><div class="title">Output</div><pre>8
+9
+30
+16
+312
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, Bahamin can only choose $$$(i, j) = (1, 2)$$$, and Benita can rearrange all four numbers. Thus, she can assign $$$a = [5, 1]$$$ and $$$b = [3, 7]$$$. And the <span class="tex-font-style-it">value</span> of the game will be $$$v=|5 - 3| + |1 - 7| = 8$$$. It can be shown that this is the maximum possible <span class="tex-font-style-it">value</span> reachable for Benita — Other arrangements like $$$a = [5, 7],\space b = [1, 3]$$$ are also possible, but they have smaller values. </p><p>In the second test case, the best strategy for Benita is to keep the two arrays unchanged, regardless of what indices Bahamin selects. And the <span class="tex-font-style-it">value</span> of the game will be $$$v=|1 - 6| + |5 - 2| + |3 - 4| = 9$$$. </p></div></div><p>  </p></div>
+</div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        const inputFileDiv = $("div.input-file");
+        const inputFile = inputFileDiv.text();
+        const outputFileDiv = $("div.output-file");
+        const outputFile = outputFileDiv.text();
+
+
+        if (!endsWith(inputFile, "standard input")
+            && !endsWith(inputFile, "standard input")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "standard output")
+            && !endsWith(outputFile, "standard output")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        const titleDiv = $("div.header div.title");
+
+
+
+
+    });
+</script>
+        </div>
+        <div style="margin-bottom: 2em;">
+
+
+<div class="problemindexholder" problemindex="D" data-uuid="ps_f5b2017bcc2e6870c15826dd694abdf63e47857f">
+    <div style="display: none; margin:1em 0;text-align: center; position: relative;" class="alert alert-info diff-notifier">
+        <div>The problem statement has recently been changed. <a class="view-changes" href="https://codeforces.com/gym/606293/problems#">View the changes.</a></div>
+        <span class="diff-notifier-close" style="position: absolute; top: 0.2em; right: 0.3em; cursor: pointer; font-size: 1.4em;">×</span>
+    </div>
+        <div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Root was Built by Love, Broken by Destiny</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Heartfall River runs horizontally through Destinyland and divides it into the northern and southern sides.</p><p>Engineer Root wants to build $$$n$$$ houses along the river, numbered from $$$1$$$ to $$$n$$$. All houses on the northern side and all houses on the southern side must lie along straight lines parallel to Heartfall River.</p><p>There will be $$$m$$$ bridges, with the $$$i$$$-th bridge connecting house $$$u_i$$$ and house $$$v_i$$$ ($$$u_i \ne v_i$$$). It is guaranteed that all $$$n$$$ houses are connected by these bridges, that is, you can travel from any house to any other by crossing bridges. Also, there are no two bridges connecting the same pair of houses.</p><p>Root wants to know how many ways there are to arrange the $$$n$$$ houses along the river, modulo $$$10^9+7$$$, such that the following conditions hold:</p><ul> <li> For every bridge, the two houses it connects lie on opposite sides of the river; </li><li> The bridges do not cross when drawn as straight lines between the houses. </li></ul><center> <img class="tex-graphics" src="./statement_files/ca691536e1d08396e42d7df4543e937ddef0dcf0.png" style="zoom: 50.0%;max-width: 100.0%;max-height: 100.0%;"> <span class="tex-font-size-small">A possible arrangement of the houses when $$$n=5$$$.</span> </center><p>Two arrangements are considered different if at least one of the following conditions holds:</p><ul> <li> There exists a house that lies on a different side in each arrangement; </li><li> There exist two houses $$$a$$$ and $$$b$$$ that are on the same side in both arrangements, but $$$a$$$ comes before $$$b$$$ in one arrangement and $$$b$$$ comes before $$$a$$$ in the other. </li></ul><p>Since Root is distracted by his ex, whom destiny separated from him, he asks you to calculate the number of ways to arrange the houses along the river, modulo $$$10^9+7$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10^4$$$). The description of the test cases follows. </p><p>The first line of each test case contains two integers $$$n$$$, $$$m$$$ ($$$2 \leq n \leq 2 \cdot 10^5$$$, $$$n-1 \leq m \leq \min\left(\frac{n(n-1)}{2}, 2 \cdot 10^5\right)$$$) — the number of houses and the number of bridges.</p><p>Then $$$m$$$ lines follow, the $$$i$$$-th line contains two integers $$$u_i$$$ and $$$v_i$$$ ($$$1 \leq u_i,v_i \leq n$$$, $$$u_i\ne v_i$$$) — the two houses that the $$$i$$$-th bridge connects.</p><p>It is guaranteed that all the $$$n$$$ houses are connected by the bridges, and there are no two bridges connecting the same pair of houses.</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$, and the sum of $$$m$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer — the number of ways to arrange the $$$n$$$ houses along the river, modulo $$$10^9+7$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">2 1</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2</div><div class="test-example-line test-example-line-even test-example-line-2">3 3</div><div class="test-example-line test-example-line-even test-example-line-2">1 2</div><div class="test-example-line test-example-line-even test-example-line-2">1 3</div><div class="test-example-line test-example-line-even test-example-line-2">2 3</div><div class="test-example-line test-example-line-odd test-example-line-3">5 4</div><div class="test-example-line test-example-line-odd test-example-line-3">1 2</div><div class="test-example-line test-example-line-odd test-example-line-3">1 3</div><div class="test-example-line test-example-line-odd test-example-line-3">3 4</div><div class="test-example-line test-example-line-odd test-example-line-3">3 5</div><div class="test-example-line test-example-line-even test-example-line-4">4 3</div><div class="test-example-line test-example-line-even test-example-line-4">1 2</div><div class="test-example-line test-example-line-even test-example-line-4">1 3</div><div class="test-example-line test-example-line-even test-example-line-4">1 4</div></pre></div><div class="output"><div class="title">Output</div><pre>2
+0
+8
+12
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, either house $$$1$$$ should be built on the northern side and house $$$2$$$ on the southern side, or vice versa.</p><p>In the second test case, at least two houses must be built on the same side of the river. But every pair of houses is connected by a bridge. So in every arrangement, at least one bridge will not cross the river. Thus, the answer is $$$0$$$.</p><p>In the third test case, one of the possible arrangements of the houses is provided in the problem statement.</p></div></div><p>  </p></div>
+</div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        const inputFileDiv = $("div.input-file");
+        const inputFile = inputFileDiv.text();
+        const outputFileDiv = $("div.output-file");
+        const outputFile = outputFileDiv.text();
+
+
+        if (!endsWith(inputFile, "standard input")
+            && !endsWith(inputFile, "standard input")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "standard output")
+            && !endsWith(outputFile, "standard output")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        const titleDiv = $("div.header div.title");
+
+
+
+
+    });
+</script>
+        </div>
+        <div style="margin-bottom: 2em;"></div></div></div></div></body></html>

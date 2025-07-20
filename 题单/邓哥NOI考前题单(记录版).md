@@ -114,7 +114,7 @@
 
 [AT_abc335_g [ABC335G] Discrete Logarithm Problems](https://www.luogu.com.cn/problem/AT_abc335_g)
 
-[P10197 [USACO24FEB] Minimum Sum of Maximums P](https://www.luogu.com.cn/problem/P10197)
+[P10197 [USACO24FEB] Minimum Sum of Maximums P](https://www.luogu.com.cn/problem/P10197) ✔
 
 [CF702F T-Shirts](https://www.luogu.com.cn/problem/CF702F)
 
