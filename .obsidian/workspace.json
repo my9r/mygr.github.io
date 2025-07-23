@@ -55,14 +55,12 @@
             "id": "f14ef76f18a8a812",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "算法/最小生成树.md",
-                "mode": "source",
-                "source": false
+                "file": "模拟赛合集/NOI2025-MX/Day3/sol.pdf"
               },
-              "icon": "lucide-file",
-              "title": "最小生成树"
+              "icon": "lucide-file-text",
+              "title": "sol"
             }
           }
         ],
@@ -120,8 +118,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "529b0600938b6eea",
@@ -144,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 550.5
   },
   "right": {
     "id": "4da4fe938a97d7e9",
@@ -160,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/最小生成树.md",
+                "file": "模拟赛合集/NOI2025-MX/Day3/sol.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "最小生成树 的反向链接列表"
+              "title": "sol 的反向链接列表"
             }
           },
           {
@@ -269,8 +266,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f14ef76f18a8a812",
+  "active": "5bf845c0d89351d7",
   "lastOpenFiles": [
+    "模拟赛合集/NOI2025-MX/Day2（题目缺失）/题解.pdf",
+    "模拟赛合集/NOI2025-MX/Day2（题目缺失）",
+    "模拟赛合集/NOI2025-MX/Day1（题目缺失）/T2别解.pdf",
+    "模拟赛合集/NOI2025-MX/Day1（题目缺失）/solution-day1.pdf",
+    "模拟赛合集/NOI2025-MX/Day1（题目缺失）",
+    "模拟赛合集/NOI2025-MX/Day1/solution-day1.pdf",
+    "模拟赛合集/NOI2025-MX/Day1/T2别解.pdf",
+    "模拟赛合集/NOI2025-MX/T2别解.pdf",
+    "模拟赛合集/NOI2025-MX/Day2/题解.pdf",
+    "模拟赛合集/NOI2025-MX/Day3/problem.pdf",
+    "模拟赛合集/NOI2025-MX/Day3/sol.pdf",
+    "模拟赛合集/NOI2025-MX/Day6/1.png",
+    "模拟赛合集/NOI2025-MX/Day5/T1.jpg",
+    "模拟赛合集/NOI2025-MX/Day5/T2.jpg",
+    "模拟赛合集/NOI2025-MX/Day5/T3.jpg",
+    "日记/mygr的日记/京师后任.md",
+    "总目录：.md",
+    "文化课/物理/光电管电路分析.md",
+    "算法/最小生成树.md",
     "算法/图论.md",
     "算法/建图技巧.md",
     "算法/最短路.md",
@@ -278,7 +294,6 @@
     "算法/网络流/网络流.md",
     "算法/连通性相关.md",
     "算法/树上问题.md",
-    "总目录：.md",
     "算法/字符串.md",
     "算法/后缀数组.md",
     "算法/AC自动机.md",
@@ -293,20 +308,6 @@
     "算法/组合数学.md",
     "算法/范德蒙德卷积.md",
     "算法/计数专题.md",
-    "算法/分治.md",
-    "算法/动态规划.md",
-    "算法/贪心.md",
-    "算法/二进制.md",
-    "模拟赛合集/武汉理工大学的校赛/Statements.pdf",
-    "模拟赛合集/武汉理工大学的校赛/Statements.pdf.crdownload",
-    "模拟赛合集/武汉理工大学的校赛",
-    "模拟赛合集/新建文件夹",
-    "模拟赛合集/hao20250623/statement.pdf",
-    "模拟赛合集/hao20250623/program/program4.out",
-    "模拟赛合集/hao20250623/program/program4.in",
-    "模拟赛合集/hao20250623/program/program3.out",
-    "模拟赛合集/hao20250623/program/program3.in",
-    "模拟赛合集/hao20250623/program/program2.out",
     "image/86cef701ae0b258585e7284dfd198550.png",
     "image/d40f1025df6a11cb05688f1fe033ea45.png",
     "日记/mygr的日记/TEXCOORD.canvas"
