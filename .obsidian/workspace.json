@@ -50,8 +50,23 @@
               "icon": "lucide-file",
               "title": "线段覆盖"
             }
+          },
+          {
+            "id": "c1fea79c2b978899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/异或.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "异或"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/二进制.md",
+                "file": "算法/异或.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "二进制 的反向链接列表"
+              "title": "异或 的反向链接列表"
             }
           },
           {
@@ -253,49 +268,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a0e8195a39c9f4cf",
+  "active": "c1fea79c2b978899",
   "lastOpenFiles": [
-    "模拟赛合集/NOI2025-MX/Day2（题目缺失）/题解.pdf",
     "算法/二进制.md",
-    "算法/线段覆盖.md",
-    "算法/网络流/网络流.md",
-    "题单/邓哥NOI考前题单(记录版).md",
-    "算法/贪心.md",
+    "算法/异或.md",
+    "文件夹/构造选讲_无题解.pdf",
+    "文件夹/随机算法.pdf",
+    "文件夹/测试讲评&习题（二）.pdf",
+    "文件夹/20250206.pdf",
+    "文件夹/20250205.pdf",
+    "文件夹/20250204.pdf",
+    "文件夹/2.18.pdf",
+    "文件夹/2.17-1.pdf",
+    "文件夹/2.pdf",
+    "文件夹/1.pdf",
+    "2025.7.10.md",
+    "2025.7.9.md",
+    "2025.7.7.md",
+    "草稿纸.md",
+    "算法/赛前金句.md",
     "总目录：.md",
-    "算法/数据结构/数据结构选讲.pdf",
-    "模拟赛合集/NOI2025-MX/Day3/sol.pdf",
-    "模拟赛合集/NOI2025-MX/Day3/problem.pdf",
-    "模拟赛合集/NOI2025-MX/Day2（题目缺失）",
-    "模拟赛合集/NOI2025-MX/Day1（题目缺失）/T2别解.pdf",
-    "模拟赛合集/NOI2025-MX/Day1（题目缺失）/solution-day1.pdf",
-    "模拟赛合集/NOI2025-MX/Day1（题目缺失）",
-    "模拟赛合集/NOI2025-MX/Day1/solution-day1.pdf",
-    "模拟赛合集/NOI2025-MX/Day1/T2别解.pdf",
+    "近期任务安排.md",
+    "卢卡斯定理.md",
+    "文化课/数学/数学.md",
+    "文化课/数学/不等式.md",
+    "文化课/物理/质能方程，质量亏损和比结合能.md",
+    "文化课/物理/物理.md",
+    "文化课/物理/推出安培力.md",
+    "文化课/物理/衰变与半衰期.md",
+    "文化课/物理/四种核反应方程.md",
+    "文化课/物理/油膜法估算油滴分子大小.md",
+    "文化课/文化课专栏.md",
+    "文化课/化学/有机物/苯.md",
+    "文化课/化学/有机物/官能团.md",
+    "文化课/化学/有机物/炔烃.md",
+    "文化课/化学/有机物/甲基.md",
+    "文化课/化学/概念与定义/有机合成.md",
+    "文化课/化学/概念与定义/同系物.md",
+    "文化课/化学/概念与定义/官能团的引入.md",
+    "image/Pasted image 20250313212929.png",
+    "image/Pasted image 20250122221308.png",
+    "image/d40f1025df6a11cb05688f1fe033ea45.png",
+    "image/円香姐姐.jpg",
+    "image/86cef701ae0b258585e7284dfd198550.png",
     "模拟赛合集/NOI2025-MX/Day6/1.png",
     "模拟赛合集/NOI2025-MX/Day5/T1.jpg",
     "模拟赛合集/NOI2025-MX/Day5/T2.jpg",
     "模拟赛合集/NOI2025-MX/Day5/T3.jpg",
-    "日记/mygr的日记/京师后任.md",
-    "文化课/物理/光电管电路分析.md",
-    "算法/最小生成树.md",
-    "算法/图论.md",
-    "算法/建图技巧.md",
-    "算法/最短路.md",
-    "算法/二分图.md",
-    "算法/连通性相关.md",
-    "算法/树上问题.md",
-    "算法/字符串.md",
-    "算法/后缀数组.md",
-    "算法/AC自动机.md",
-    "算法/Kmp.md",
-    "算法/数论.md",
-    "算法/数学相关Trick.md",
-    "算法/BEST定理.md",
-    "算法/卡特兰数.md",
-    "算法/矩阵乘法.md",
-    "算法/对 2 取模意义下的组合数.md",
-    "image/86cef701ae0b258585e7284dfd198550.png",
-    "image/d40f1025df6a11cb05688f1fe033ea45.png",
     "日记/mygr的日记/TEXCOORD.canvas"
   ]
 }
